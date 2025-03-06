@@ -8,20 +8,20 @@ Telefonia_fija.xlsx
 Television.xlsx
 
 A_Internet_Accesos_rangos.csv
-Internet_Acc_vel_loc_sinrangos.csv 
-Internet_Accesos por rangos.csv 
-Internet_Accesos Por Tecnología.csv 
+#Internet_Acc_vel_loc_sinrangos.csv 
+#Internet_Accesos por rangos.csv 
+#Internet_Accesos Por Tecnología.csv 
 Internet_Accesos_tecnologia_localidad.csv 
 Internet_Dial-BAf.csv 
-Internet_Ingresos .csv 
-Internet_Penetracion-hogares.csv 
-Internet_Penetración-poblacion.csv 
+#Internet_Ingresos .csv 
+#Internet_Penetración-poblacion.csv 
+#Internet_Penetracion-hogares.csv
 Internet_Penetracion-totales.csv 
 Internet_Totales Accesos por rango.csv 
 Internet_Totales Accesos Por Tecnología.csv
 Internet_Totales Dial-BAf.csv 
 Internet_Totales VMD.csv 
-Internet_Velocidad % por prov.csv 
+#Internet_Velocidad % por prov.csv 
 Internet_Velocidad_sin_Rangos.csv
 
 

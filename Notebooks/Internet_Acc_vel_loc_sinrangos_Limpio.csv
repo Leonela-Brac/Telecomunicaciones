@@ -135,9 +135,7 @@ BUENOS AIRES,Alberti,Mechita,6021030.0,3,275.0
 BUENOS AIRES,Alberti,Mechita,6021030.0,5,10.0
 BUENOS AIRES,Alberti,Villa Ortiz  (Est. Coronel Mom),6021070.0,15,24.0
 BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,0,1.0
-BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,0,1.0
 BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,0,10.0
-BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,0,1.0
 BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,0,34.0
 BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,1,21.0
 BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,2,8.0
@@ -163,7 +161,6 @@ BUENOS AIRES,Almirante Brown,Adrogué,6028010.0,1000,365.0
 BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,0,52.0
 BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,0,1.0
 BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,0,9.0
-BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,0,1.0
 BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,0,23.0
 BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,1,15.0
 BUENOS AIRES,Almirante Brown,Burzaco,6028010.0,2,78.0
@@ -256,7 +253,6 @@ BUENOS AIRES,Almirante Brown,Jose Mármol,6028010.0,300,3416.0
 BUENOS AIRES,Almirante Brown,Jose Mármol,6028010.0,500,429.0
 BUENOS AIRES,Almirante Brown,Jose Mármol,6028010.0,1000,447.0
 BUENOS AIRES,Almirante Brown,Longchamps,6028010.0,0,1.0
-BUENOS AIRES,Almirante Brown,Longchamps,6028010.0,0,1.0
 BUENOS AIRES,Almirante Brown,Longchamps,6028010.0,0,3.0
 BUENOS AIRES,Almirante Brown,Longchamps,6028010.0,3,3.0
 BUENOS AIRES,Almirante Brown,Longchamps,6028010.0,3,21.0
@@ -323,7 +319,6 @@ BUENOS AIRES,Almirante Brown,Rafael Calzada,6028010.0,300,5185.0
 BUENOS AIRES,Almirante Brown,Rafael Calzada,6028010.0,500,695.0
 BUENOS AIRES,Almirante Brown,Rafael Calzada,6028010.0,1000,675.0
 BUENOS AIRES,Almirante Brown,San Francisco Solano,6028010.0,0,1.0
-BUENOS AIRES,Almirante Brown,San Francisco Solano,6028010.0,0,1.0
 BUENOS AIRES,Almirante Brown,San Francisco Solano,6028010.0,0,4.0
 BUENOS AIRES,Almirante Brown,San Francisco Solano,6028010.0,1,9.0
 BUENOS AIRES,Almirante Brown,San Francisco Solano,6028010.0,3,40.0
@@ -353,9 +348,6 @@ BUENOS AIRES,Almirante Brown,San Jose,6028010.0,150,2702.0
 BUENOS AIRES,Almirante Brown,San Jose,6028010.0,300,3942.0
 BUENOS AIRES,Almirante Brown,San Jose,6028010.0,500,615.0
 BUENOS AIRES,Almirante Brown,San Jose,6028010.0,1000,582.0
-BUENOS AIRES,AMBA,Otros,,0,13.0
-BUENOS AIRES,AMBA,Otros,,1,0.0
-BUENOS AIRES,AMBA,Otros,,15,0.0
 BUENOS AIRES,Arrecifes,Arrecifes,6077010.0,0,159.0
 BUENOS AIRES,Arrecifes,Arrecifes,6077010.0,0,1.0
 BUENOS AIRES,Arrecifes,Arrecifes,6077010.0,0,6.0
@@ -720,7 +712,6 @@ BUENOS AIRES,Baradero,Villa Alsina  (Est. Alsina),6070040.0,12,14.0
 BUENOS AIRES,Baradero,Villa Alsina  (Est. Alsina),6070040.0,15,7.0
 BUENOS AIRES,Baradero,Villa Alsina  (Est. Alsina),6070040.0,20,2.0
 BUENOS AIRES,Benito Juárez,Barker,6084010.0,0,1.0
-BUENOS AIRES,Benito Juárez,Barker,6084010.0,0,1.0
 BUENOS AIRES,Benito Juárez,Barker,6084010.0,1,20.0
 BUENOS AIRES,Benito Juárez,Barker,6084010.0,3,78.0
 BUENOS AIRES,Benito Juárez,Benito Juárez  (Est. Juárez),6084020.0,0,4.0
@@ -876,7 +867,6 @@ BUENOS AIRES,Berazategui,Plátanos,6091010.0,500,140.0
 BUENOS AIRES,Berazategui,Plátanos,6091010.0,600,44.0
 BUENOS AIRES,Berazategui,Plátanos,6091010.0,1000,202.0
 BUENOS AIRES,Berazategui,Ranelagh,6091010.0,0,1.0
-BUENOS AIRES,Berazategui,Ranelagh,6091010.0,0,1.0
 BUENOS AIRES,Berazategui,Ranelagh,6091010.0,0,7.0
 BUENOS AIRES,Berazategui,Ranelagh,6091010.0,1,3.0
 BUENOS AIRES,Berazategui,Ranelagh,6091010.0,3,20.0
@@ -967,8 +957,6 @@ BUENOS AIRES,Berisso,Villa Progreso,6098010.0,50,9.0
 BUENOS AIRES,Berisso,Villa Progreso,6098010.0,100,16.0
 BUENOS AIRES,Bolívar,Hale,6105010.0,10,10.0
 BUENOS AIRES,Bolívar,Juan F. Ibarra,6105020.0,10,1.0
-BUENOS AIRES,Bolívar,OTROS,,3,1.0
-BUENOS AIRES,Bolívar,OTROS,,30,1.0
 BUENOS AIRES,Bolívar,Pirovano,6105050.0,0,50.0
 BUENOS AIRES,Bolívar,Pirovano,6105050.0,6,45.0
 BUENOS AIRES,Bolívar,San Carlos de Bolívar  (Est. Bolívar),6105060.0,0,13.0
@@ -1108,7 +1096,6 @@ BUENOS AIRES,Cañuelas,Barrio Belgrano-Máximo Paz,6134030.0,10,48.0
 BUENOS AIRES,Cañuelas,Barrio El Taladro,6134020.0,10,171.0
 BUENOS AIRES,Cañuelas,Barrio El Taladro,6134020.0,20,23.0
 BUENOS AIRES,Cañuelas,Barrio El Taladro,6134020.0,50,29.0
-BUENOS AIRES,Cañuelas,Cañuelas,6134030.0,0,1.0
 BUENOS AIRES,Cañuelas,Cañuelas,6134030.0,0,1.0
 BUENOS AIRES,Cañuelas,Cañuelas,6134030.0,0,19.0
 BUENOS AIRES,Cañuelas,Cañuelas,6134030.0,3,1.0
@@ -1319,7 +1306,6 @@ BUENOS AIRES,Chascomús,Manuel J. Cobo  (Est. Lezama),6217020.0,30,23.0
 BUENOS AIRES,Chascomús,Manuel J. Cobo  (Est. Lezama),6217020.0,50,2.0
 BUENOS AIRES,Chivilcoy,Benitez,6224005.0,15,19.0
 BUENOS AIRES,Chivilcoy,Chivilcoy,6224010.0,0,2362.0
-BUENOS AIRES,Chivilcoy,Chivilcoy,6224010.0,0,1.0
 BUENOS AIRES,Chivilcoy,Chivilcoy,6224010.0,0,1.0
 BUENOS AIRES,Chivilcoy,Chivilcoy,6224010.0,0,33.0
 BUENOS AIRES,Chivilcoy,Chivilcoy,6224010.0,2,906.0
@@ -1639,7 +1625,6 @@ BUENOS AIRES,Escobar,Garín,6252010.0,600,224.0
 BUENOS AIRES,Escobar,Garín,6252010.0,1000,857.0
 BUENOS AIRES,Escobar,Ingeniero Maschwitz,6252010.0,0,23.0
 BUENOS AIRES,Escobar,Ingeniero Maschwitz,6252010.0,0,3.0
-BUENOS AIRES,Escobar,Ingeniero Maschwitz,6252010.0,0,3.0
 BUENOS AIRES,Escobar,Ingeniero Maschwitz,6252010.0,1,23.0
 BUENOS AIRES,Escobar,Ingeniero Maschwitz,6252010.0,2,21.0
 BUENOS AIRES,Escobar,Ingeniero Maschwitz,6252010.0,3,71.0
@@ -1689,8 +1674,6 @@ BUENOS AIRES,Escobar,Maquinista F. Savio (este),6252010.0,600,22.0
 BUENOS AIRES,Escobar,Maquinista F. Savio (este),6252010.0,1000,425.0
 BUENOS AIRES,Escobar,Matheu,6252010.0,0,1.0
 BUENOS AIRES,Escobar,Matheu,6252010.0,0,2.0
-BUENOS AIRES,Escobar,Matheu,6252010.0,0,1.0
-BUENOS AIRES,Escobar,Matheu,6252010.0,0,1.0
 BUENOS AIRES,Escobar,Matheu,6252010.0,1,17.0
 BUENOS AIRES,Escobar,Matheu,6252010.0,2,1.0
 BUENOS AIRES,Escobar,Matheu,6252010.0,3,35.0
@@ -1738,9 +1721,7 @@ BUENOS AIRES,Esteban Echeverría,9 De Abril,6260010.0,1000,591.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,0,2.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,0,3.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,0,16.0
-BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,0,2.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,1,39.0
-BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,3,2.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,3,2.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,5,1.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,6,1.0
@@ -1757,7 +1738,6 @@ BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,200,202.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,300,1899.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,500,256.0
 BUENOS AIRES,Esteban Echeverría,Canning,6260010.0,1000,366.0
-BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,0,1.0
 BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,0,1.0
 BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,1,1.0
 BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,2,29.0
@@ -1778,7 +1758,6 @@ BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,300,2518.0
 BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,500,383.0
 BUENOS AIRES,Esteban Echeverría,El Jagüel,6260010.0,1000,440.0
 BUENOS AIRES,Esteban Echeverría,Luis Guillón,6260010.0,0,3.0
-BUENOS AIRES,Esteban Echeverría,Luis Guillón,6260010.0,0,2.0
 BUENOS AIRES,Esteban Echeverría,Luis Guillón,6260010.0,0,2.0
 BUENOS AIRES,Esteban Echeverría,Luis Guillón,6260010.0,1,2.0
 BUENOS AIRES,Esteban Echeverría,Luis Guillón,6260010.0,2,21.0
@@ -1835,7 +1814,6 @@ BUENOS AIRES,Exaltación de la Cruz,Arroyo de la Cruz,6266010.0,15,6.0
 BUENOS AIRES,Exaltación de la Cruz,Arroyo de la Cruz,6266010.0,50,1.0
 BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),6266020.0,0,1.0
 BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),6266020.0,0,2.0
-BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),6266020.0,0,2.0
 BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),6266020.0,3,25.0
 BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),6266020.0,8,94.0
 BUENOS AIRES,Exaltación de la Cruz,Capilla del Señor  (Est. Capilla),6266020.0,15,238.0
@@ -1846,7 +1824,6 @@ BUENOS AIRES,Exaltación de la Cruz,El Remanso,6266030.0,12,22.0
 BUENOS AIRES,Exaltación de la Cruz,El Remanso,6266030.0,15,17.0
 BUENOS AIRES,Exaltación de la Cruz,El Remanso,6266030.0,25,78.0
 BUENOS AIRES,Exaltación de la Cruz,El Remanso,6266030.0,50,296.0
-BUENOS AIRES,Exaltación de la Cruz,Los Cardales,6266040.0,0,1.0
 BUENOS AIRES,Exaltación de la Cruz,Los Cardales,6266040.0,0,1.0
 BUENOS AIRES,Exaltación de la Cruz,Los Cardales,6266040.0,0,2.0
 BUENOS AIRES,Exaltación de la Cruz,Los Cardales,6266040.0,2,30.0
@@ -1870,7 +1847,6 @@ BUENOS AIRES,Exaltación de la Cruz,Parada Robles - Pavón,6266060.0,50,992.0
 BUENOS AIRES,Exaltación de la Cruz,Parada Robles - Pavón,6266060.0,100,123.0
 BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,6270010.0,0,1.0
 BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,6270010.0,0,2.0
-BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,6270010.0,0,1.0
 BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,6270010.0,0,8.0
 BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,6270010.0,1,2.0
 BUENOS AIRES,Ezeiza,Aeropuerto Internacional Ezeiza,6270010.0,3,11.0
@@ -1965,10 +1941,6 @@ BUENOS AIRES,Ezeiza,La Unión,6270010.0,150,2363.0
 BUENOS AIRES,Ezeiza,La Unión,6270010.0,300,3903.0
 BUENOS AIRES,Ezeiza,La Unión,6270010.0,500,606.0
 BUENOS AIRES,Ezeiza,La Unión,6270010.0,1000,587.0
-BUENOS AIRES,Ezeiza,OTROS,,0,2.0
-BUENOS AIRES,Ezeiza,OTROS,,0,1.0
-BUENOS AIRES,Ezeiza,OTROS,,3,1.0
-BUENOS AIRES,Ezeiza,OTROS,,30,5.0
 BUENOS AIRES,Ezeiza,Tristán Suarez,6270010.0,0,1.0
 BUENOS AIRES,Ezeiza,Tristán Suarez,6270010.0,0,6.0
 BUENOS AIRES,Ezeiza,Tristán Suarez,6270010.0,1,2.0
@@ -2299,7 +2271,6 @@ BUENOS AIRES,General Lavalle,General Lavalle,6336020.0,0,1.0
 BUENOS AIRES,General Lavalle,General Lavalle,6336020.0,4,156.0
 BUENOS AIRES,General Lavalle,General Lavalle,6336020.0,6,203.0
 BUENOS AIRES,General Lavalle,General Lavalle,6336020.0,100,4.0
-BUENOS AIRES,General Lavalle,OTROS,,30,1.0
 BUENOS AIRES,General Lavalle,Pavón,6336030.0,4,3.0
 BUENOS AIRES,General Lavalle,Pavón,6336030.0,60,192.0
 BUENOS AIRES,General Lavalle,Pavón,6336030.0,120,29.0
@@ -2440,11 +2411,6 @@ BUENOS AIRES,General Pueyrredón,Mar del Plata,6357110.0,300,51094.0
 BUENOS AIRES,General Pueyrredón,Mar del Plata,6357110.0,500,5100.0
 BUENOS AIRES,General Pueyrredón,Mar del Plata,6357110.0,600,2717.0
 BUENOS AIRES,General Pueyrredón,Mar del Plata,6357110.0,1000,1086.0
-BUENOS AIRES,General Pueyrredón,Otros,,10,22.0
-BUENOS AIRES,General Pueyrredón,Otros,,15,78.0
-BUENOS AIRES,General Pueyrredón,Otros,,20,42.0
-BUENOS AIRES,General Pueyrredón,Otros,,30,7.0
-BUENOS AIRES,General Pueyrredón,Otros,,50,2.0
 BUENOS AIRES,General Pueyrredón,Sierra de los Padres,6357120.0,0,3.0
 BUENOS AIRES,General Pueyrredón,Sierra de los Padres,6357120.0,3,1.0
 BUENOS AIRES,General Pueyrredón,Sierra de los Padres,6357120.0,3,128.0
@@ -2460,7 +2426,6 @@ BUENOS AIRES,General Pueyrredón,Sierra de los Padres,6357120.0,50,3.0
 BUENOS AIRES,General Rodríguez,Barrio Ruta 24 Kilómetro 10,6364030.0,5,2.0
 BUENOS AIRES,General Rodríguez,General Rodríguez,6364030.0,0,1.0
 BUENOS AIRES,General Rodríguez,General Rodríguez,6364030.0,0,2.0
-BUENOS AIRES,General Rodríguez,General Rodríguez,6364030.0,0,1.0
 BUENOS AIRES,General Rodríguez,General Rodríguez,6364030.0,0,46.0
 BUENOS AIRES,General Rodríguez,General Rodríguez,6364030.0,1,2.0
 BUENOS AIRES,General Rodríguez,General Rodríguez,6364030.0,3,3.0
@@ -2529,8 +2494,6 @@ BUENOS AIRES,General San Martín,Ciudad Del Libertador General San Martin,637101
 BUENOS AIRES,General San Martín,Ciudad Del Libertador General San Martin,6371010.0,1000,1741.0
 BUENOS AIRES,General San Martín,Ciudad Jardin El Libertador,6371010.0,1,2.0
 BUENOS AIRES,General San Martín,Ciudad Jardin El Libertador,6371010.0,3,3.0
-BUENOS AIRES,General San Martín,OTROS,,0,4.0
-BUENOS AIRES,General San Martín,OTROS,,3,7.0
 BUENOS AIRES,General San Martín,Va Ma Irene De Los Remedios De Escalada,6371010.0,10,2.0
 BUENOS AIRES,General San Martín,Va Ma Irene De Los Remedios De Escalada,6371010.0,50,2.0
 BUENOS AIRES,General San Martín,Va Ma Irene De Los Remedios De Escalada,6371010.0,150,19.0
@@ -2818,7 +2781,6 @@ BUENOS AIRES,General San Martín,Villa Parque San Lorenzo,6371010.0,600,9.0
 BUENOS AIRES,General San Martín,Villa Parque San Lorenzo,6371010.0,1000,22.0
 BUENOS AIRES,General San Martín,Villa San Andrés,6371010.0,0,9.0
 BUENOS AIRES,General San Martín,Villa San Andrés,6371010.0,0,5.0
-BUENOS AIRES,General San Martín,Villa San Andrés,6371010.0,0,5.0
 BUENOS AIRES,General San Martín,Villa San Andrés,6371010.0,1,75.0
 BUENOS AIRES,General San Martín,Villa San Andrés,6371010.0,2,84.0
 BUENOS AIRES,General San Martín,Villa San Andrés,6371010.0,3,268.0
@@ -2912,7 +2874,6 @@ BUENOS AIRES,Hipólito Yrigoyen,Henderson,6406010.0,3,10.0
 BUENOS AIRES,Hipólito Yrigoyen,Henderson,6406010.0,8,860.0
 BUENOS AIRES,Hipólito Yrigoyen,Henderson,6406010.0,15,52.0
 BUENOS AIRES,Hurlingham,Hurlingham,6408010.0,0,3.0
-BUENOS AIRES,Hurlingham,Hurlingham,6408010.0,0,3.0
 BUENOS AIRES,Hurlingham,Hurlingham,6408010.0,0,12.0
 BUENOS AIRES,Hurlingham,Hurlingham,6408010.0,0,1.0
 BUENOS AIRES,Hurlingham,Hurlingham,6408010.0,0,61.0
@@ -3002,8 +2963,6 @@ BUENOS AIRES,Ituzaingó,Ituzaingó Centro,6410010.0,1000,1722.0
 BUENOS AIRES,Ituzaingó,Ituzaingó Sur,6410010.0,6,28.0
 BUENOS AIRES,Ituzaingó,Ituzaingó Sur,6410010.0,10,3.0
 BUENOS AIRES,Ituzaingó,Ituzaingó Sur,6410010.0,14,1.0
-BUENOS AIRES,Ituzaingó,OTROS,,0,2.0
-BUENOS AIRES,Ituzaingó,OTROS,,30,2.0
 BUENOS AIRES,Ituzaingó,Villa Gobernador Udaondo,6410010.0,0,5.0
 BUENOS AIRES,Ituzaingó,Villa Gobernador Udaondo,6410010.0,1,3.0
 BUENOS AIRES,Ituzaingó,Villa Gobernador Udaondo,6410010.0,3,30.0
@@ -3391,7 +3350,6 @@ BUENOS AIRES,La Matanza,Rafael Castillo,6427010.0,500,958.0
 BUENOS AIRES,La Matanza,Rafael Castillo,6427010.0,1000,1268.0
 BUENOS AIRES,La Matanza,Ramos Mejía,6427010.0,0,2.0
 BUENOS AIRES,La Matanza,Ramos Mejía,6427010.0,0,17.0
-BUENOS AIRES,La Matanza,Ramos Mejía,6427010.0,0,2.0
 BUENOS AIRES,La Matanza,Ramos Mejía,6427010.0,0,56.0
 BUENOS AIRES,La Matanza,Ramos Mejía,6427010.0,1,23.0
 BUENOS AIRES,La Matanza,Ramos Mejía,6427010.0,2,2.0
@@ -3704,10 +3662,6 @@ BUENOS AIRES,La Plata,Manuel B Gonnet,6441030.0,300,5681.0
 BUENOS AIRES,La Plata,Manuel B Gonnet,6441030.0,500,613.0
 BUENOS AIRES,La Plata,Manuel B Gonnet,6441030.0,600,43.0
 BUENOS AIRES,La Plata,Manuel B Gonnet,6441030.0,1000,360.0
-BUENOS AIRES,La Plata,OTROS,,3,14.0
-BUENOS AIRES,La Plata,OTROS,,8,6.0
-BUENOS AIRES,La Plata,OTROS,,15,2.0
-BUENOS AIRES,La Plata,OTROS,,30,9.0
 BUENOS AIRES,La Plata,Ringuelet,6441030.0,5,1.0
 BUENOS AIRES,La Plata,Ringuelet,6441030.0,10,19.0
 BUENOS AIRES,La Plata,Ringuelet,6441030.0,20,1.0
@@ -3833,7 +3787,6 @@ BUENOS AIRES,Lanús,Lanús Este,6434010.0,300,11862.0
 BUENOS AIRES,Lanús,Lanús Este,6434010.0,500,1455.0
 BUENOS AIRES,Lanús,Lanús Este,6434010.0,600,76.0
 BUENOS AIRES,Lanús,Lanús Este,6434010.0,1000,1004.0
-BUENOS AIRES,Lanús,Lanús Oeste,6434010.0,0,1.0
 BUENOS AIRES,Lanús,Lanús Oeste,6434010.0,0,1.0
 BUENOS AIRES,Lanús,Lanús Oeste,6434010.0,1,202.0
 BUENOS AIRES,Lanús,Lanús Oeste,6434010.0,5,8.0
@@ -4019,7 +3972,6 @@ BUENOS AIRES,Lincoln,Lincoln,6469080.0,100,4064.0
 BUENOS AIRES,Lincoln,Lincoln,6469080.0,300,3474.0
 BUENOS AIRES,Lincoln,Lincoln,6469080.0,500,56.0
 BUENOS AIRES,Lincoln,Lincoln,6469080.0,1000,2.0
-BUENOS AIRES,Lincoln,Pasteur,6469090.0,0,2.0
 BUENOS AIRES,Lincoln,Pasteur,6469090.0,0,2.0
 BUENOS AIRES,Lincoln,Pasteur,6469090.0,3,389.0
 BUENOS AIRES,Lincoln,Pasteur,6469090.0,4,37.0
@@ -4303,8 +4255,6 @@ BUENOS AIRES,Luján,Open Door  (Est. Dr. Domingo Cabred),6497060.0,150,60.0
 BUENOS AIRES,Luján,Open Door  (Est. Dr. Domingo Cabred),6497060.0,300,111.0
 BUENOS AIRES,Luján,Open Door  (Est. Dr. Domingo Cabred),6497060.0,500,1.0
 BUENOS AIRES,Luján,Open Door  (Est. Dr. Domingo Cabred),6497060.0,1000,70.0
-BUENOS AIRES,Luján,OTROS,,1,22.0
-BUENOS AIRES,Luján,OTROS,,2,20.0
 BUENOS AIRES,Luján,Torres,6497090.0,1,16.0
 BUENOS AIRES,Luján,Torres,6497090.0,2,6.0
 BUENOS AIRES,Luján,Torres,6497090.0,3,5.0
@@ -4403,7 +4353,6 @@ BUENOS AIRES,Malvinas Argentinas,Ingeniero Pablo Nogués,6515010.0,300,1748.0
 BUENOS AIRES,Malvinas Argentinas,Ingeniero Pablo Nogués,6515010.0,500,263.0
 BUENOS AIRES,Malvinas Argentinas,Ingeniero Pablo Nogués,6515010.0,999,1.0
 BUENOS AIRES,Malvinas Argentinas,Ingeniero Pablo Nogués,6515010.0,1000,304.0
-BUENOS AIRES,Malvinas Argentinas,Los Polvorines,6515010.0,0,4.0
 BUENOS AIRES,Malvinas Argentinas,Los Polvorines,6515010.0,0,4.0
 BUENOS AIRES,Malvinas Argentinas,Los Polvorines,6515010.0,0,1.0
 BUENOS AIRES,Malvinas Argentinas,Los Polvorines,6515010.0,0,12.0
@@ -4513,7 +4462,6 @@ BUENOS AIRES,Mar Chiquita,Santa Clara del Mar,6518060.0,50,759.0
 BUENOS AIRES,Mar Chiquita,Santa Clara del Mar,6518060.0,100,305.0
 BUENOS AIRES,Mar Chiquita,Vivoratá,6518070.0,0,318.0
 BUENOS AIRES,Marcos Paz,Marcos Paz,6525020.0,0,15.0
-BUENOS AIRES,Marcos Paz,Marcos Paz,6525020.0,0,1.0
 BUENOS AIRES,Marcos Paz,Marcos Paz,6525020.0,0,1.0
 BUENOS AIRES,Marcos Paz,Marcos Paz,6525020.0,0,28.0
 BUENOS AIRES,Marcos Paz,Marcos Paz,6525020.0,1,22.0
@@ -4632,7 +4580,6 @@ BUENOS AIRES,Merlo,Merlo,6539010.0,150,10515.0
 BUENOS AIRES,Merlo,Merlo,6539010.0,300,18405.0
 BUENOS AIRES,Merlo,Merlo,6539010.0,500,2660.0
 BUENOS AIRES,Merlo,Merlo,6539010.0,1000,2876.0
-BUENOS AIRES,Merlo,OTROS,,30,1.0
 BUENOS AIRES,Merlo,Pontevedra,6539010.0,0,5.0
 BUENOS AIRES,Merlo,Pontevedra,6539010.0,3,169.0
 BUENOS AIRES,Merlo,Pontevedra,6539010.0,5,1.0
@@ -4995,14 +4942,12 @@ BUENOS AIRES,Necochea,Nicanor Olivera  (Est. La Dulce),6581050.0,2,22.0
 BUENOS AIRES,Necochea,Nicanor Olivera  (Est. La Dulce),6581050.0,3,308.0
 BUENOS AIRES,Necochea,Nicanor Olivera  (Est. La Dulce),6581050.0,5,115.0
 BUENOS AIRES,Necochea,Nicanor Olivera  (Est. La Dulce),6581050.0,7,138.0
-BUENOS AIRES,Necochea,OTROS,,2,16.0
 BUENOS AIRES,Olavarría,Hinojo,6595060.0,0,1.0
 BUENOS AIRES,Olavarría,Hinojo,6595060.0,3,1.0
 BUENOS AIRES,Olavarría,Hinojo,6595060.0,8,6.0
 BUENOS AIRES,Olavarría,Hinojo,6595060.0,15,6.0
 BUENOS AIRES,Olavarría,Hinojo,6595060.0,100,118.0
 BUENOS AIRES,Olavarría,Olavarría,6595070.0,0,8.0
-BUENOS AIRES,Olavarría,Olavarría,6595070.0,0,5.0
 BUENOS AIRES,Olavarría,Olavarría,6595070.0,0,5.0
 BUENOS AIRES,Olavarría,Olavarría,6595070.0,2,1.0
 BUENOS AIRES,Olavarría,Olavarría,6595070.0,3,89.0
@@ -5028,14 +4973,6 @@ BUENOS AIRES,Olavarría,Sierras Bayas,6595110.0,8,90.0
 BUENOS AIRES,Olavarría,Sierras Bayas,6595110.0,15,157.0
 BUENOS AIRES,Olavarría,Villa Alfredo Fortabat,6595120.0,10,105.0
 BUENOS AIRES,Olavarría,Villa Alfredo Fortabat,6595120.0,20,5.0
-BUENOS AIRES,OTROS,Otros,,0,88161.0
-BUENOS AIRES,OTROS,OTROS,,0,24201.0
-BUENOS AIRES,OTROS,OTROS,,1,8.0
-BUENOS AIRES,OTROS,OTROS,,3,5.0
-BUENOS AIRES,OTROS,Otros,,3,6.0
-BUENOS AIRES,OTROS,OTROS,,5,1.0
-BUENOS AIRES,OTROS,OTROS,,6,2.0
-BUENOS AIRES,OTROS,OTROS,,10,1.0
 BUENOS AIRES,Patagones,Bahía San Blas,6602010.0,2,3.0
 BUENOS AIRES,Patagones,Bahía San Blas,6602010.0,4,1.0
 BUENOS AIRES,Patagones,Carmen de Patagones,6602030.0,0,1.0
@@ -5128,7 +5065,6 @@ BUENOS AIRES,Pergamino,Mariano H. Alfonzo  (Est. San Patricio),6623090.0,20,2.0
 BUENOS AIRES,Pergamino,Pergamino,6623100.0,0,14.0
 BUENOS AIRES,Pergamino,Pergamino,6623100.0,0,1.0
 BUENOS AIRES,Pergamino,Pergamino,6623100.0,0,3.0
-BUENOS AIRES,Pergamino,Pergamino,6623100.0,0,1.0
 BUENOS AIRES,Pergamino,Pergamino,6623100.0,0,95.0
 BUENOS AIRES,Pergamino,Pergamino,6623100.0,3,1213.0
 BUENOS AIRES,Pergamino,Pergamino,6623100.0,5,252.0
@@ -5246,10 +5182,6 @@ BUENOS AIRES,Pilar,Manzanares,6638040.0,500,25.0
 BUENOS AIRES,Pilar,Manzanares,6638040.0,1000,152.0
 BUENOS AIRES,Pilar,Maquinista F. Savio (oeste),6638040.0,3,5.0
 BUENOS AIRES,Pilar,Maquinista F. Savio (oeste),6638040.0,6,49.0
-BUENOS AIRES,Pilar,OTROS,,3,31.0
-BUENOS AIRES,Pilar,OTROS,,6,237.0
-BUENOS AIRES,Pilar,OTROS,,15,1.0
-BUENOS AIRES,Pilar,OTROS,,30,5.0
 BUENOS AIRES,Pilar,Pilar,6638040.0,0,135.0
 BUENOS AIRES,Pilar,Pilar,6638040.0,0,9.0
 BUENOS AIRES,Pilar,Pilar,6638040.0,0,2.0
@@ -5491,7 +5423,6 @@ BUENOS AIRES,Quilmes,Ezpeleta,6658010.0,500,715.0
 BUENOS AIRES,Quilmes,Ezpeleta,6658010.0,1000,853.0
 BUENOS AIRES,Quilmes,Ezpeleta Oeste,6658010.0,0,3.0
 BUENOS AIRES,Quilmes,Ezpeleta Oeste,6658010.0,3,9.0
-BUENOS AIRES,Quilmes,Ezpeleta Oeste,6658010.0,3,9.0
 BUENOS AIRES,Quilmes,Ezpeleta Oeste,6658010.0,6,7.0
 BUENOS AIRES,Quilmes,Ezpeleta Oeste,6658010.0,8,7.0
 BUENOS AIRES,Quilmes,Ezpeleta Oeste,6658010.0,10,2.0
@@ -5545,7 +5476,6 @@ BUENOS AIRES,Quilmes,Quilmes Oeste,6658010.0,100,3643.0
 BUENOS AIRES,Quilmes,Quilmes Oeste,6658010.0,300,3084.0
 BUENOS AIRES,Quilmes,Quilmes Oeste,6658010.0,500,395.0
 BUENOS AIRES,Quilmes,Quilmes Oeste,6658010.0,1000,122.0
-BUENOS AIRES,Quilmes,San Francisco Solano,6658010.0,0,1.0
 BUENOS AIRES,Quilmes,San Francisco Solano,6658010.0,0,1.0
 BUENOS AIRES,Quilmes,San Francisco Solano,6658010.0,1,7.0
 BUENOS AIRES,Quilmes,San Francisco Solano,6658010.0,3,12.0
@@ -5612,8 +5542,6 @@ BUENOS AIRES,Ramallo,Villa Ramallo,6665060.0,100,1415.0
 BUENOS AIRES,Ramallo,Villa Ramallo,6665060.0,300,494.0
 BUENOS AIRES,Ramallo,Villa Ramallo,6665060.0,500,13.0
 BUENOS AIRES,Ramallo,Villa Ramallo,6665060.0,1000,7.0
-BUENOS AIRES,Rauch,OTROS,,1,11.0
-BUENOS AIRES,Rauch,OTROS,,2,19.0
 BUENOS AIRES,Rauch,Rauch,6672010.0,0,2.0
 BUENOS AIRES,Rauch,Rauch,6672010.0,1,76.0
 BUENOS AIRES,Rauch,Rauch,6672010.0,2,9.0
@@ -5844,8 +5772,6 @@ BUENOS AIRES,San Cayetano,San Cayetano,6742030.0,15,94.0
 BUENOS AIRES,San Cayetano,San Cayetano,6742030.0,30,24.0
 BUENOS AIRES,San Cayetano,San Cayetano,6742030.0,50,3.0
 BUENOS AIRES,San Fernando,San Fernando,6749010.0,0,2.0
-BUENOS AIRES,San Fernando,San Fernando,6749010.0,0,2.0
-BUENOS AIRES,San Fernando,San Fernando,6749010.0,0,2.0
 BUENOS AIRES,San Fernando,San Fernando,6749010.0,1,69.0
 BUENOS AIRES,San Fernando,San Fernando,6749010.0,2,1.0
 BUENOS AIRES,San Fernando,San Fernando,6749010.0,3,178.0
@@ -5914,7 +5840,6 @@ BUENOS AIRES,San Fernando,Virreyes,6749010.0,500,430.0
 BUENOS AIRES,San Fernando,Virreyes,6749010.0,600,151.0
 BUENOS AIRES,San Fernando,Virreyes,6749010.0,1000,289.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,0,1.0
-BUENOS AIRES,San Isidro,Acassuso,6756010.0,0,1.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,1,15.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,3,8.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,3,3.0
@@ -5933,7 +5858,6 @@ BUENOS AIRES,San Isidro,Acassuso,6756010.0,300,2284.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,500,438.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,600,40.0
 BUENOS AIRES,San Isidro,Acassuso,6756010.0,1000,276.0
-BUENOS AIRES,San Isidro,Beccar,6756010.0,0,1.0
 BUENOS AIRES,San Isidro,Beccar,6756010.0,0,1.0
 BUENOS AIRES,San Isidro,Beccar,6756010.0,1,39.0
 BUENOS AIRES,San Isidro,Beccar,6756010.0,2,3.0
@@ -5958,7 +5882,6 @@ BUENOS AIRES,San Isidro,Beccar,6756010.0,300,6727.0
 BUENOS AIRES,San Isidro,Beccar,6756010.0,500,1076.0
 BUENOS AIRES,San Isidro,Beccar,6756010.0,600,109.0
 BUENOS AIRES,San Isidro,Beccar,6756010.0,1000,668.0
-BUENOS AIRES,San Isidro,Boulogne Sur Mer,6756010.0,0,6.0
 BUENOS AIRES,San Isidro,Boulogne Sur Mer,6756010.0,0,6.0
 BUENOS AIRES,San Isidro,Boulogne Sur Mer,6756010.0,0,1.0
 BUENOS AIRES,San Isidro,Boulogne Sur Mer,6756010.0,1,35.0
@@ -6011,7 +5934,6 @@ BUENOS AIRES,San Isidro,Martínez,6756010.0,1000,1057.0
 BUENOS AIRES,San Isidro,San Isidro,6756010.0,0,18.0
 BUENOS AIRES,San Isidro,San Isidro,6756010.0,0,1.0
 BUENOS AIRES,San Isidro,San Isidro,6756010.0,0,3.0
-BUENOS AIRES,San Isidro,San Isidro,6756010.0,0,1.0
 BUENOS AIRES,San Isidro,San Isidro,6756010.0,1,61.0
 BUENOS AIRES,San Isidro,San Isidro,6756010.0,2,1.0
 BUENOS AIRES,San Isidro,San Isidro,6756010.0,3,54.0
@@ -6059,7 +5981,6 @@ BUENOS AIRES,San Isidro,Villa Adelina,6756010.0,1000,328.0
 BUENOS AIRES,San Miguel,Bella Vista,6760010.0,0,16.0
 BUENOS AIRES,San Miguel,Bella Vista,6760010.0,0,3.0
 BUENOS AIRES,San Miguel,Bella Vista,6760010.0,0,1.0
-BUENOS AIRES,San Miguel,Bella Vista,6760010.0,0,16.0
 BUENOS AIRES,San Miguel,Bella Vista,6760010.0,1,8.0
 BUENOS AIRES,San Miguel,Bella Vista,6760010.0,2,8.0
 BUENOS AIRES,San Miguel,Bella Vista,6760010.0,3,44.0
@@ -6122,7 +6043,6 @@ BUENOS AIRES,San Nicolás,Erézcano,6763020.0,1,108.0
 BUENOS AIRES,San Nicolás,General Rojo,6763030.0,10,599.0
 BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,6763050.0,0,5.0
 BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,6763050.0,0,1.0
-BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,6763050.0,0,1.0
 BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,6763050.0,1,54.0
 BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,6763050.0,2,1.0
 BUENOS AIRES,San Nicolás,San Nicolás de los Arroyos,6763050.0,3,233.0
@@ -6168,7 +6088,6 @@ BUENOS AIRES,San Pedro,San Pedro,6770050.0,250,72.0
 BUENOS AIRES,San Pedro,San Pedro,6770050.0,300,2069.0
 BUENOS AIRES,San Pedro,San Pedro,6770050.0,500,58.0
 BUENOS AIRES,San Pedro,San Pedro,6770050.0,1000,30.0
-BUENOS AIRES,San Pedro,Santa Lucía,6770060.0,0,1.0
 BUENOS AIRES,San Pedro,Santa Lucía,6770060.0,0,1.0
 BUENOS AIRES,San Pedro,Santa Lucía,6770060.0,20,1.0
 BUENOS AIRES,San Vicente,Alejandro Korn,6778020.0,0,1.0
@@ -6253,9 +6172,7 @@ BUENOS AIRES,Tandil,Gardey,6791030.0,30,2.0
 BUENOS AIRES,Tandil,Gardey,6791030.0,50,1.0
 BUENOS AIRES,Tandil,María Ignacia  (Est. Vela),6791040.0,5,4.0
 BUENOS AIRES,Tandil,María Ignacia  (Est. Vela),6791040.0,10,283.0
-BUENOS AIRES,Tandil,Otros,,0,45.0
 BUENOS AIRES,Tandil,Tandil,6791050.0,0,88.0
-BUENOS AIRES,Tandil,Tandil,6791050.0,0,3.0
 BUENOS AIRES,Tandil,Tandil,6791050.0,0,3.0
 BUENOS AIRES,Tandil,Tandil,6791050.0,0,132.0
 BUENOS AIRES,Tandil,Tandil,6791050.0,1,49.0
@@ -6285,7 +6202,6 @@ BUENOS AIRES,Tapalqué,Tapalqué,6798020.0,30,1.0
 BUENOS AIRES,Tigre,Benavídez,6805010.0,0,879.0
 BUENOS AIRES,Tigre,Benavídez,6805010.0,0,1.0
 BUENOS AIRES,Tigre,Benavídez,6805010.0,0,2.0
-BUENOS AIRES,Tigre,Benavídez,6805010.0,0,1.0
 BUENOS AIRES,Tigre,Benavídez,6805010.0,1,18.0
 BUENOS AIRES,Tigre,Benavídez,6805010.0,2,116.0
 BUENOS AIRES,Tigre,Benavídez,6805010.0,3,232.0
@@ -6431,7 +6347,6 @@ BUENOS AIRES,Tigre,Nordelta,6805010.0,100,2679.0
 BUENOS AIRES,Tigre,Nordelta,6805010.0,300,4905.0
 BUENOS AIRES,Tigre,Nordelta,6805010.0,500,1167.0
 BUENOS AIRES,Tigre,Nordelta,6805010.0,1000,582.0
-BUENOS AIRES,Tigre,OTROS,,30,2.0
 BUENOS AIRES,Tigre,Ricardo Rojas,6805010.0,0,1075.0
 BUENOS AIRES,Tigre,Ricardo Rojas,6805010.0,3,2.0
 BUENOS AIRES,Tigre,Ricardo Rojas,6805010.0,5,4.0
@@ -6533,7 +6448,6 @@ BUENOS AIRES,Trenque Lauquen,30 de Agosto,6826040.0,5,850.0
 BUENOS AIRES,Trenque Lauquen,30 de Agosto,6826040.0,8,1260.0
 BUENOS AIRES,Trenque Lauquen,Girodias,6826020.0,3,2.0
 BUENOS AIRES,Trenque Lauquen,La Carreta,6826030.0,3,2.0
-BUENOS AIRES,Trenque Lauquen,OTROS,,0,4.0
 BUENOS AIRES,Trenque Lauquen,Trenque Lauquen,6826050.0,0,1.0
 BUENOS AIRES,Trenque Lauquen,Trenque Lauquen,6826050.0,0,19.0
 BUENOS AIRES,Trenque Lauquen,Trenque Lauquen,6826050.0,3,1376.0
@@ -6586,7 +6500,6 @@ BUENOS AIRES,Tres Arroyos,San Francisco de Bellocq,6833080.0,20,61.0
 BUENOS AIRES,Tres Arroyos,San Francisco de Bellocq,6833080.0,500,76.0
 BUENOS AIRES,Tres Arroyos,San Mayol,6833090.0,20,18.0
 BUENOS AIRES,Tres Arroyos,Tres Arroyos,6833100.0,0,2.0
-BUENOS AIRES,Tres Arroyos,Tres Arroyos,6833100.0,0,2.0
 BUENOS AIRES,Tres Arroyos,Tres Arroyos,6833100.0,0,36.0
 BUENOS AIRES,Tres Arroyos,Tres Arroyos,6833100.0,1,4.0
 BUENOS AIRES,Tres Arroyos,Tres Arroyos,6833100.0,3,551.0
@@ -6621,7 +6534,6 @@ BUENOS AIRES,Tres De Febrero,11 De Septiembre,6840010.0,500,73.0
 BUENOS AIRES,Tres De Febrero,11 De Septiembre,6840010.0,1000,115.0
 BUENOS AIRES,Tres De Febrero,Caseros,6840010.0,0,1.0
 BUENOS AIRES,Tres De Febrero,Caseros,6840010.0,0,2.0
-BUENOS AIRES,Tres De Febrero,Caseros,6840010.0,0,1.0
 BUENOS AIRES,Tres De Febrero,Caseros,6840010.0,0,4.0
 BUENOS AIRES,Tres De Febrero,Caseros,6840010.0,1,69.0
 BUENOS AIRES,Tres De Febrero,Caseros,6840010.0,2,1.0
@@ -6718,7 +6630,6 @@ BUENOS AIRES,Tres De Febrero,El Libertador,6840010.0,500,246.0
 BUENOS AIRES,Tres De Febrero,El Libertador,6840010.0,1000,263.0
 BUENOS AIRES,Tres De Febrero,Jose Ingenieros,6840010.0,1,6.0
 BUENOS AIRES,Tres De Febrero,Jose Ingenieros,6840010.0,3,1.0
-BUENOS AIRES,Tres De Febrero,Jose Ingenieros,6840010.0,3,1.0
 BUENOS AIRES,Tres De Febrero,Jose Ingenieros,6840010.0,6,5.0
 BUENOS AIRES,Tres De Febrero,Jose Ingenieros,6840010.0,10,19.0
 BUENOS AIRES,Tres De Febrero,Jose Ingenieros,6840010.0,14,1.0
@@ -6806,8 +6717,6 @@ BUENOS AIRES,Tres De Febrero,Remedios De Escalada,6840010.0,500,216.0
 BUENOS AIRES,Tres De Febrero,Remedios De Escalada,6840010.0,600,181.0
 BUENOS AIRES,Tres De Febrero,Remedios De Escalada,6840010.0,1000,224.0
 BUENOS AIRES,Tres De Febrero,Saenz Peña,6840010.0,0,1.0
-BUENOS AIRES,Tres De Febrero,Saenz Peña,6840010.0,0,1.0
-BUENOS AIRES,Tres De Febrero,Saenz Peña,6840010.0,0,1.0
 BUENOS AIRES,Tres De Febrero,Saenz Peña,6840010.0,1,7.0
 BUENOS AIRES,Tres De Febrero,Saenz Peña,6840010.0,3,12.0
 BUENOS AIRES,Tres De Febrero,Saenz Peña,6840010.0,3,1.0
@@ -6892,7 +6801,6 @@ BUENOS AIRES,Tres Lomas,Tres Lomas,6847020.0,25,483.0
 BUENOS AIRES,Tres Lomas,Tres Lomas,6847020.0,50,3.0
 BUENOS AIRES,Tres Lomas,Tres Lomas,6847020.0,100,4.0
 BUENOS AIRES,Vicente López,Carapachay,6861010.0,0,1.0
-BUENOS AIRES,Vicente López,Carapachay,6861010.0,0,1.0
 BUENOS AIRES,Vicente López,Carapachay,6861010.0,1,21.0
 BUENOS AIRES,Vicente López,Carapachay,6861010.0,3,27.0
 BUENOS AIRES,Vicente López,Carapachay,6861010.0,3,2.0
@@ -6912,7 +6820,6 @@ BUENOS AIRES,Vicente López,Carapachay,6861010.0,500,293.0
 BUENOS AIRES,Vicente López,Carapachay,6861010.0,600,85.0
 BUENOS AIRES,Vicente López,Carapachay,6861010.0,1000,223.0
 BUENOS AIRES,Vicente López,Florida,6861010.0,0,1.0
-BUENOS AIRES,Vicente López,Florida,6861010.0,0,2.0
 BUENOS AIRES,Vicente López,Florida,6861010.0,0,2.0
 BUENOS AIRES,Vicente López,Florida,6861010.0,1,42.0
 BUENOS AIRES,Vicente López,Florida,6861010.0,2,1.0
@@ -6979,7 +6886,6 @@ BUENOS AIRES,Vicente López,La Lucila,6861010.0,300,2413.0
 BUENOS AIRES,Vicente López,La Lucila,6861010.0,500,393.0
 BUENOS AIRES,Vicente López,La Lucila,6861010.0,600,35.0
 BUENOS AIRES,Vicente López,La Lucila,6861010.0,1000,192.0
-BUENOS AIRES,Vicente López,Munro,6861010.0,0,9.0
 BUENOS AIRES,Vicente López,Munro,6861010.0,0,9.0
 BUENOS AIRES,Vicente López,Munro,6861010.0,0,1.0
 BUENOS AIRES,Vicente López,Munro,6861010.0,0,3.0
@@ -7064,7 +6970,6 @@ BUENOS AIRES,Vicente López,Villa Adelina,6861010.0,500,41.0
 BUENOS AIRES,Vicente López,Villa Adelina,6861010.0,600,34.0
 BUENOS AIRES,Vicente López,Villa Adelina,6861010.0,1000,58.0
 BUENOS AIRES,Vicente López,Villa Martelli,6861010.0,0,4.0
-BUENOS AIRES,Vicente López,Villa Martelli,6861010.0,0,1.0
 BUENOS AIRES,Vicente López,Villa Martelli,6861010.0,0,1.0
 BUENOS AIRES,Vicente López,Villa Martelli,6861010.0,1,24.0
 BUENOS AIRES,Vicente López,Villa Martelli,6861010.0,2,45.0
@@ -7171,7 +7076,6 @@ BUENOS AIRES,Zárate,Zárate,6882050.0,150,3219.0
 BUENOS AIRES,Zárate,Zárate,6882050.0,300,9310.0
 BUENOS AIRES,Zárate,Zárate,6882050.0,500,764.0
 BUENOS AIRES,Zárate,Zárate,6882050.0,1000,1078.0
-CABA,Ciudad Autónoma de Buenos Aires,Desconocido,,300,5582.0
 CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0,0,590.0
 CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0,0,32.0
 CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0,0,451.0
@@ -7225,7 +7129,6 @@ CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0
 CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0,800,1.0
 CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0,999,25.0
 CABA,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,2000010.0,1000,65689.0
-CABA,Otros,Otros,,0,590.0
 CATAMARCA,Ambato,El Bolsón,10007030.0,0,1.0
 CATAMARCA,Ambato,El Rodeo,10007040.0,0,47.0
 CATAMARCA,Ambato,El Rodeo,10007040.0,0,1.0
@@ -7239,7 +7142,6 @@ CATAMARCA,Ambato,Los Talas,10007100.0,3,51.0
 CATAMARCA,Ambato,Los Varela,10007110.0,0,1.0
 CATAMARCA,Ancasti,Ancasti,10014010.0,0,1.0
 CATAMARCA,Andalgalá,Aconquija,10021010.0,0,1.0
-CATAMARCA,Andalgalá,Andalgalá,10021020.0,0,1.0
 CATAMARCA,Andalgalá,Andalgalá,10021020.0,0,1.0
 CATAMARCA,Andalgalá,Andalgalá,10021020.0,1,19.0
 CATAMARCA,Andalgalá,Andalgalá,10021020.0,3,34.0
@@ -7285,7 +7187,6 @@ CATAMARCA,Capayán,Huillapima,10042100.0,6,5.0
 CATAMARCA,Capayán,Huillapima,10042100.0,30,9.0
 CATAMARCA,Capayán,Los Angeles,10042110.0,3,5.0
 CATAMARCA,Capayán,Miraflores,10042120.0,0,1.0
-CATAMARCA,Capayán,Miraflores,10042120.0,0,1.0
 CATAMARCA,Capayán,Miraflores,10042120.0,6,7.0
 CATAMARCA,Capayán,Miraflores,10042120.0,30,10.0
 CATAMARCA,Capayán,San Martín,10042130.0,0,7.0
@@ -7295,7 +7196,6 @@ CATAMARCA,Capital,El Pantanillo,10049020.0,10,2.0
 CATAMARCA,Capital,El Pantanillo,10049020.0,15,1.0
 CATAMARCA,Capital,El Pantanillo,10049020.0,100,2.0
 CATAMARCA,Capital,El Pantanillo,10049020.0,300,38.0
-CATAMARCA,Capital,San Fernando del Valle de Catamarca,10049030.0,0,1.0
 CATAMARCA,Capital,San Fernando del Valle de Catamarca,10049030.0,0,1.0
 CATAMARCA,Capital,San Fernando del Valle de Catamarca,10049030.0,1,90.0
 CATAMARCA,Capital,San Fernando del Valle de Catamarca,10049030.0,3,238.0
@@ -7339,7 +7239,6 @@ CATAMARCA,La Paz,Recreo,10070140.0,300,1001.0
 CATAMARCA,La Paz,Recreo,10070140.0,500,48.0
 CATAMARCA,La Paz,Recreo,10070140.0,1000,3.0
 CATAMARCA,La Paz,San Antonio,10070150.0,3,26.0
-CATAMARCA,Otros,Otros,,0,4.0
 CATAMARCA,Paclín,La Merced,10077050.0,0,3.0
 CATAMARCA,Paclín,La Merced,10077050.0,0,1.0
 CATAMARCA,Paclín,La Merced,10077050.0,1,6.0
@@ -7353,7 +7252,6 @@ CATAMARCA,Paclín,San Antonio,10077100.0,0,1.0
 CATAMARCA,Paclín,San Antonio,10077100.0,3,7.0
 CATAMARCA,Pomán,Colpes,10084030.0,3,16.0
 CATAMARCA,Pomán,Mutquin,10084060.0,0,1.0
-CATAMARCA,Pomán,Pomán,10084070.0,0,1.0
 CATAMARCA,Pomán,Pomán,10084070.0,0,1.0
 CATAMARCA,Pomán,San Miguel,10084090.0,30,7.0
 CATAMARCA,Pomán,Saujil,10084100.0,0,1.0
@@ -7382,7 +7280,6 @@ CATAMARCA,Santa María,San José,10091140.0,5,31.0
 CATAMARCA,Santa María,San José,10091140.0,15,132.0
 CATAMARCA,Santa María,San José,10091140.0,25,6.0
 CATAMARCA,Santa María,Santa María,10091150.0,0,1.0
-CATAMARCA,Santa María,Santa María,10091150.0,0,1.0
 CATAMARCA,Santa María,Santa María,10091150.0,1,23.0
 CATAMARCA,Santa María,Santa María,10091150.0,3,775.0
 CATAMARCA,Santa María,Santa María,10091150.0,5,126.0
@@ -7390,7 +7287,6 @@ CATAMARCA,Santa María,Santa María,10091150.0,6,5.0
 CATAMARCA,Santa María,Santa María,10091150.0,15,779.0
 CATAMARCA,Santa María,Santa María,10091150.0,25,41.0
 CATAMARCA,Santa María,Santa María,10091150.0,50,3.0
-CATAMARCA,Santa Rosa,Alijilán,10098010.0,0,1.0
 CATAMARCA,Santa Rosa,Alijilán,10098010.0,0,1.0
 CATAMARCA,Santa Rosa,Bañado de Ovanta,10098020.0,0,1.0
 CATAMARCA,Santa Rosa,Lavalle,10098040.0,0,1.0
@@ -7400,7 +7296,6 @@ CATAMARCA,Tinogasta,Fiambalá,10105110.0,0,1.0
 CATAMARCA,Tinogasta,Fiambalá,10105110.0,6,8.0
 CATAMARCA,Tinogasta,Fiambalá,10105110.0,20,1.0
 CATAMARCA,Tinogasta,Fiambalá,10105110.0,30,7.0
-CATAMARCA,Tinogasta,Tinogasta,10105180.0,0,1.0
 CATAMARCA,Tinogasta,Tinogasta,10105180.0,0,1.0
 CATAMARCA,Tinogasta,Tinogasta,10105180.0,3,10.0
 CATAMARCA,Tinogasta,Tinogasta,10105180.0,6,65.0
@@ -7581,7 +7476,6 @@ CHACO,Comandante Fernández,Presidencia Roque Sáenz Peña,22021010.0,300,3121.0
 CHACO,Comandante Fernández,Presidencia Roque Sáenz Peña,22021010.0,500,147.0
 CHACO,Comandante Fernández,Presidencia Roque Sáenz Peña,22021010.0,1000,13.0
 CHACO,Fray Justo Santa María De Oro,Chorotis,22043010.0,0,25.0
-CHACO,Fray Justo Santa María De Oro,OTROS,,0,60.0
 CHACO,Fray Justo Santa María De Oro,Santa Sylvina,22043020.0,0,950.0
 CHACO,Fray Justo Santa María de Oro,Santa Sylvina,22043020.0,0,33.0
 CHACO,General Belgrano,Corzuela,22049010.0,0,1.0
@@ -7757,7 +7651,6 @@ CHACO,O Higgins,San Bernardo,22112030.0,0,38.0
 CHACO,O Higgins,San Bernardo,22112030.0,0,3.0
 CHACO,O Higgins,San Bernardo,22112030.0,5,12.0
 CHACO,O Higgins,San Bernardo,22112030.0,6,147.0
-CHACO,OTROS,Otros,,0,1704.0
 CHACO,Presidencia de la Plaza,Presidencia de la Plaza,22119010.0,1,1.0
 CHACO,Presidencia de la Plaza,Presidencia de la Plaza,22119010.0,3,2.0
 CHACO,Presidencia de la Plaza,Presidencia de la Plaza,22119010.0,5,24.0
@@ -7785,7 +7678,6 @@ CHACO,San Fernando,Barranqueras,22140010.0,300,1434.0
 CHACO,San Fernando,Barranqueras,22140010.0,500,92.0
 CHACO,San Fernando,Barranqueras,22140010.0,1000,8.0
 CHACO,San Fernando,Basail,22140020.0,0,1.0
-CHACO,San Fernando,Basail,22140020.0,0,1.0
 CHACO,San Fernando,Basail,22140020.0,3,3.0
 CHACO,San Fernando,Basail,22140020.0,6,71.0
 CHACO,San Fernando,Basail,22140020.0,9,1.0
@@ -7795,7 +7687,6 @@ CHACO,San Fernando,Basail,22140020.0,20,3.0
 CHACO,San Fernando,Basail,22140020.0,30,1.0
 CHACO,San Fernando,Fontana,22140040.0,5,152.0
 CHACO,San Fernando,Fontana,22140040.0,15,656.0
-CHACO,San Fernando,OTROS,,0,3.0
 CHACO,San Fernando,Puerto Vilelas,22140050.0,0,1.0
 CHACO,San Fernando,Puerto Vilelas,22140050.0,5,1.0
 CHACO,San Fernando,Puerto Vilelas,22140050.0,10,1.0
@@ -7995,7 +7886,6 @@ CHUBUT,Futaleufú,Esquel,26035030.0,30,6.0
 CHUBUT,Futaleufú,Los Cipreses,26035050.0,0,1.0
 CHUBUT,Futaleufú,Los Cipreses,26035050.0,1,1.0
 CHUBUT,Futaleufú,Trevelín,26035060.0,0,1.0
-CHUBUT,Futaleufú,Trevelín,26035060.0,0,1.0
 CHUBUT,Futaleufú,Trevelín,26035060.0,0,12.0
 CHUBUT,Futaleufú,Trevelín,26035060.0,3,42.0
 CHUBUT,Futaleufú,Trevelín,26035060.0,3,103.0
@@ -8023,7 +7913,6 @@ CHUBUT,Gaiman,Gaiman,26042030.0,15,159.0
 CHUBUT,Gaiman,Gaiman,26042030.0,30,207.0
 CHUBUT,Gaiman,Gaiman,26042030.0,50,469.0
 CHUBUT,Gaiman,Gaiman,26042030.0,100,5.0
-CHUBUT,Gaiman,OTROS,,0,14.0
 CHUBUT,Gastre,Blancuntre,26049010.0,0,1.0
 CHUBUT,Gastre,El Escorial,26049020.0,0,1.0
 CHUBUT,Gastre,Gastre,26049030.0,3,147.0
@@ -8041,7 +7930,6 @@ CHUBUT,Languiñeo,Paso del Sapo,26056040.0,3,88.0
 CHUBUT,Languiñeo,Tecka,26056050.0,0,1.0
 CHUBUT,Mártires,El Mirasol,26063010.0,0,1.0
 CHUBUT,Mártires,Las Plumas,26063020.0,0,1.0
-CHUBUT,Otros,Otros,,0,820.0
 CHUBUT,Paso de Indios,Cerro Cóndor,26070010.0,0,1.0
 CHUBUT,Paso de Indios,Cerro Cóndor,26070010.0,30,1.0
 CHUBUT,Paso de Indios,Los Altares,26070020.0,0,1.0
@@ -8082,7 +7970,6 @@ CHUBUT,Rawson,Rawson,26077030.0,50,3411.0
 CHUBUT,Rawson,Trelew,26077040.0,0,491.0
 CHUBUT,Rawson,Trelew,26077040.0,0,3.0
 CHUBUT,Rawson,Trelew,26077040.0,0,1.0
-CHUBUT,Rawson,Trelew,26077040.0,0,1.0
 CHUBUT,Rawson,Trelew,26077040.0,0,120.0
 CHUBUT,Rawson,Trelew,26077040.0,1,20.0
 CHUBUT,Rawson,Trelew,26077040.0,2,472.0
@@ -8111,7 +7998,6 @@ CHUBUT,Río Senguer,Alto Río Senguer,26084030.0,0,2.0
 CHUBUT,Río Senguer,Alto Río Senguer,26084030.0,0,1.0
 CHUBUT,Río Senguer,Alto Río Senguer,26084030.0,1,1.0
 CHUBUT,Río Senguer,Doctor Ricardo Rojas,26084040.0,0,1.0
-CHUBUT,Río Senguer,Facundo,26084050.0,0,1.0
 CHUBUT,Río Senguer,Facundo,26084050.0,0,1.0
 CHUBUT,Río Senguer,Facundo,26084050.0,5,40.0
 CHUBUT,Río Senguer,Lago Blanco,26084060.0,0,1.0
@@ -8409,10 +8295,8 @@ CORDOBA,Colón,Mendiolaza,14021200.0,300,1495.0
 CORDOBA,Colón,Mendiolaza,14021200.0,500,262.0
 CORDOBA,Colón,Mendiolaza,14021200.0,1000,21.0
 CORDOBA,Colón,Mi Granja,14021210.0,10,1.0
-CORDOBA,Colón,OTROS,,5,16.0
 CORDOBA,Colón,Pajas Blancas,14021220.0,3,8.0
 CORDOBA,Colón,Pajas Blancas,14021220.0,5,10.0
-CORDOBA,Colón,Río Ceballos,14021230.0,0,1.0
 CORDOBA,Colón,Río Ceballos,14021230.0,0,1.0
 CORDOBA,Colón,Río Ceballos,14021230.0,1,91.0
 CORDOBA,Colón,Río Ceballos,14021230.0,3,69.0
@@ -8470,7 +8354,6 @@ CORDOBA,Colón,Unquillo,14021280.0,500,32.0
 CORDOBA,Colón,Unquillo,14021280.0,1000,8.0
 CORDOBA,Colón,Villa Allende,14021290.0,0,233.0
 CORDOBA,Colón,Villa Allende,14021290.0,1,8.0
-CORDOBA,Colón,Villa Allende,14021290.0,3,1.0
 CORDOBA,Colón,Villa Allende,14021290.0,3,1.0
 CORDOBA,Colón,Villa Allende,14021290.0,6,68.0
 CORDOBA,Colón,Villa Allende,14021290.0,8,1.0
@@ -8601,7 +8484,6 @@ CORDOBA,General Roca,Villa Huidobro,14035120.0,3,395.0
 CORDOBA,General Roca,Villa Huidobro,14035120.0,6,285.0
 CORDOBA,General Roca,Villa Huidobro,14035120.0,20,2.0
 CORDOBA,General Roca,Villa Valeria,14035140.0,0,1.0
-CORDOBA,General Roca,Villa Valeria,14035140.0,0,1.0
 CORDOBA,General Roca,Villa Valeria,14035140.0,5,364.0
 CORDOBA,General Roca,Villa Valeria,14035140.0,20,567.0
 CORDOBA,General San Martín,Arroyo Algodón,14042010.0,0,1.0
@@ -8609,7 +8491,6 @@ CORDOBA,General San Martín,Arroyo Algodón,14042010.0,4,285.0
 CORDOBA,General San Martín,Arroyo Algodón,14042010.0,6,65.0
 CORDOBA,General San Martín,Arroyo Algodón,14042010.0,8,34.0
 CORDOBA,General San Martín,Arroyo Algodón,14042010.0,10,1.0
-CORDOBA,General San Martín,Arroyo Cabral,14042020.0,0,1.0
 CORDOBA,General San Martín,Arroyo Cabral,14042020.0,0,1.0
 CORDOBA,General San Martín,Arroyo Cabral,14042020.0,3,113.0
 CORDOBA,General San Martín,Arroyo Cabral,14042020.0,6,529.0
@@ -8643,7 +8524,6 @@ CORDOBA,General San Martín,Silvio Pellico,14042130.0,20,19.0
 CORDOBA,General San Martín,Silvio Pellico,14042130.0,50,118.0
 CORDOBA,General San Martín,Ticino,14042140.0,0,4.0
 CORDOBA,General San Martín,Ticino,14042140.0,0,1.0
-CORDOBA,General San Martín,Ticino,14042140.0,0,1.0
 CORDOBA,General San Martín,Ticino,14042140.0,20,695.0
 CORDOBA,General San Martín,Ticino,14042140.0,50,100.0
 CORDOBA,General San Martín,Tío Pujio,14042150.0,0,1.0
@@ -8657,7 +8537,6 @@ CORDOBA,General San Martín,Tío Pujio,14042150.0,15,3.0
 CORDOBA,General San Martín,Tío Pujio,14042150.0,20,43.0
 CORDOBA,General San Martín,Tío Pujio,14042150.0,30,3.0
 CORDOBA,General San Martín,Villa María,14042170.0,0,4298.0
-CORDOBA,General San Martín,Villa María,14042170.0,0,1.0
 CORDOBA,General San Martín,Villa María,14042170.0,0,1.0
 CORDOBA,General San Martín,Villa María,14042170.0,1,71.0
 CORDOBA,General San Martín,Villa María,14042170.0,3,184.0
@@ -8678,7 +8557,6 @@ CORDOBA,General San Martín,Villa María,14042170.0,500,249.0
 CORDOBA,General San Martín,Villa María,14042170.0,1000,143.0
 CORDOBA,General San Martín,Villa Nueva,14042180.0,0,2683.0
 CORDOBA,General San Martín,Villa Nueva,14042180.0,0,1.0
-CORDOBA,General San Martín,Villa Nueva,14042180.0,0,1.0
 CORDOBA,General San Martín,Villa Nueva,14042180.0,1,9.0
 CORDOBA,General San Martín,Villa Nueva,14042180.0,3,15.0
 CORDOBA,General San Martín,Villa Nueva,14042180.0,5,37.0
@@ -8695,7 +8573,6 @@ CORDOBA,Ischilín,Avellaneda,14049010.0,0,1.0
 CORDOBA,Ischilín,Chuña,14049030.0,0,2.0
 CORDOBA,Ischilín,Chuña,14049030.0,6,102.0
 CORDOBA,Ischilín,Copacabana,14049040.0,6,12.0
-CORDOBA,Ischilín,Deán Funes,14049050.0,0,1.0
 CORDOBA,Ischilín,Deán Funes,14049050.0,0,1.0
 CORDOBA,Ischilín,Deán Funes,14049050.0,1,2.0
 CORDOBA,Ischilín,Deán Funes,14049050.0,3,16.0
@@ -8824,7 +8701,6 @@ CORDOBA,Marcos Juárez,Corral de Bustos,14063090.0,30,2.0
 CORDOBA,Marcos Juárez,Corral de Bustos,14063090.0,50,32.0
 CORDOBA,Marcos Juárez,Corral de Bustos,14063090.0,100,14.0
 CORDOBA,Marcos Juárez,Cruz Alta,14063100.0,0,1.0
-CORDOBA,Marcos Juárez,Cruz Alta,14063100.0,0,1.0
 CORDOBA,Marcos Juárez,Cruz Alta,14063100.0,1,4.0
 CORDOBA,Marcos Juárez,Cruz Alta,14063100.0,3,10.0
 CORDOBA,Marcos Juárez,Cruz Alta,14063100.0,5,1.0
@@ -8936,12 +8812,6 @@ CORDOBA,Minas,San Carlos Minas,14070060.0,10,136.0
 CORDOBA,Minas,San Carlos Minas,14070060.0,15,14.0
 CORDOBA,Minas,Tosno,14070080.0,3,5.0
 CORDOBA,Minas,Tosno,14070080.0,6,24.0
-CORDOBA,Otros,Otros,,0,480.0
-CORDOBA,OTROS,OTROS,,1,1.0
-CORDOBA,OTROS,OTROS,,3,2.0
-CORDOBA,OTROS,OTROS,,6,265.0
-CORDOBA,OTROS,OTROS,,10,4.0
-CORDOBA,OTROS,OTROS,,15,1.0
 CORDOBA,Pocho,Chancani,14077010.0,6,85.0
 CORDOBA,Pocho,Chancani,14077010.0,12,12.0
 CORDOBA,Pocho,Las Palmas,14077020.0,6,9.0
@@ -9349,11 +9219,9 @@ CORDOBA,Río Cuarto,Las Vertientes,14098190.0,3,1.0
 CORDOBA,Río Cuarto,Las Vertientes,14098190.0,6,4.0
 CORDOBA,Río Cuarto,Las Vertientes,14098190.0,10,23.0
 CORDOBA,Río Cuarto,Las Vertientes,14098190.0,15,1.0
-CORDOBA,Río Cuarto,OTROS,,0,30.0
 CORDOBA,Río Cuarto,Río Cuarto,14098230.0,0,5.0
 CORDOBA,Río Cuarto,Río Cuarto,14098230.0,0,1.0
 CORDOBA,Río Cuarto,Río Cuarto,14098230.0,0,3.0
-CORDOBA,Río Cuarto,Río Cuarto,14098230.0,0,1.0
 CORDOBA,Río Cuarto,Río Cuarto,14098230.0,1,102.0
 CORDOBA,Río Cuarto,Río Cuarto,14098230.0,2,2.0
 CORDOBA,Río Cuarto,Río Cuarto,14098230.0,3,351.0
@@ -9384,7 +9252,6 @@ CORDOBA,Río Cuarto,Sampacho,14098240.0,13,7.0
 CORDOBA,Río Cuarto,Sampacho,14098240.0,15,16.0
 CORDOBA,Río Cuarto,Sampacho,14098240.0,20,13.0
 CORDOBA,Río Cuarto,San Basilio,14098250.0,0,1.0
-CORDOBA,Río Cuarto,San Basilio,14098250.0,0,1.0
 CORDOBA,Río Cuarto,San Basilio,14098250.0,3,37.0
 CORDOBA,Río Cuarto,San Basilio,14098250.0,6,514.0
 CORDOBA,Río Cuarto,San Basilio,14098250.0,12,286.0
@@ -9395,7 +9262,6 @@ CORDOBA,Río Cuarto,Santa Catalina (Est. Holmberg),14098260.0,6,17.0
 CORDOBA,Río Cuarto,Santa Catalina (Est. Holmberg),14098260.0,10,272.0
 CORDOBA,Río Cuarto,Santa Catalina (Est. Holmberg),14098260.0,15,37.0
 CORDOBA,Río Cuarto,Santa Catalina (Est. Holmberg),14098260.0,20,3.0
-CORDOBA,Río Cuarto,Vicuña Mackenna,14098290.0,0,1.0
 CORDOBA,Río Cuarto,Vicuña Mackenna,14098290.0,0,1.0
 CORDOBA,Río Cuarto,Vicuña Mackenna,14098290.0,1,1.0
 CORDOBA,Río Cuarto,Vicuña Mackenna,14098290.0,2,6.0
@@ -9435,7 +9301,6 @@ CORDOBA,Río Primero,Montecristo,14105190.0,20,137.0
 CORDOBA,Río Primero,Montecristo,14105190.0,30,42.0
 CORDOBA,Río Primero,Montecristo,14105190.0,50,16.0
 CORDOBA,Río Primero,Obispo Trejo,14105200.0,0,1.0
-CORDOBA,Río Primero,OTROS,,6,20.0
 CORDOBA,Río Primero,Piquillín,14105210.0,1,3.0
 CORDOBA,Río Primero,Piquillín,14105210.0,3,2.0
 CORDOBA,Río Primero,Piquillín,14105210.0,6,12.0
@@ -9491,7 +9356,6 @@ CORDOBA,Río Segundo,Carrilobo,14119040.0,50,50.0
 CORDOBA,Río Segundo,Carrilobo,14119040.0,100,12.0
 CORDOBA,Río Segundo,Carrilobo,14119040.0,200,2.0
 CORDOBA,Río Segundo,Colazo,14119050.0,0,1.0
-CORDOBA,Río Segundo,Colazo,14119050.0,0,1.0
 CORDOBA,Río Segundo,Costasacate,14119070.0,0,1.0
 CORDOBA,Río Segundo,Costasacate,14119070.0,2,12.0
 CORDOBA,Río Segundo,Costasacate,14119070.0,3,123.0
@@ -9509,7 +9373,6 @@ CORDOBA,Río Segundo,Laguna Larga,14119090.0,6,33.0
 CORDOBA,Río Segundo,Laguna Larga,14119090.0,10,412.0
 CORDOBA,Río Segundo,Laguna Larga,14119090.0,15,30.0
 CORDOBA,Río Segundo,Laguna Larga,14119090.0,20,3.0
-CORDOBA,Río Segundo,Las Junturas,14119100.0,0,1.0
 CORDOBA,Río Segundo,Las Junturas,14119100.0,0,1.0
 CORDOBA,Río Segundo,Las Junturas,14119100.0,4,1.0
 CORDOBA,Río Segundo,Las Junturas,14119100.0,6,52.0
@@ -9713,7 +9576,6 @@ CORDOBA,San Javier,Luyaba,14133150.0,7,23.0
 CORDOBA,San Javier,Quebracho Ladeado,14133155.0,2,8.0
 CORDOBA,San Javier,Quebracho Ladeado,14133155.0,7,2.0
 CORDOBA,San Javier,Quebrada de los Pozos,14133160.0,0,1.0
-CORDOBA,San Javier,Quebrada de los Pozos,14133160.0,0,1.0
 CORDOBA,San Javier,Quebrada de los Pozos,14133160.0,1,27.0
 CORDOBA,San Javier,Quebrada de los Pozos,14133160.0,2,15.0
 CORDOBA,San Javier,Quebrada de los Pozos,14133160.0,3,9.0
@@ -9763,9 +9625,7 @@ CORDOBA,San Justo,Alicia,14140010.0,15,43.0
 CORDOBA,San Justo,Alicia,14140010.0,20,837.0
 CORDOBA,San Justo,Alicia,14140010.0,50,627.0
 CORDOBA,San Justo,Altos de Chipión,14140020.0,0,1.0
-CORDOBA,San Justo,Altos de Chipión,14140020.0,0,1.0
 CORDOBA,San Justo,Altos de Chipión,14140020.0,10,634.0
-CORDOBA,San Justo,Arroyito,14140030.0,0,1.0
 CORDOBA,San Justo,Arroyito,14140030.0,0,1.0
 CORDOBA,San Justo,Arroyito,14140030.0,1,4.0
 CORDOBA,San Justo,Arroyito,14140030.0,3,24.0
@@ -9970,8 +9830,6 @@ CORDOBA,San Justo,Seeber,14140380.0,0,1.0
 CORDOBA,San Justo,Seeber,14140380.0,5,60.0
 CORDOBA,San Justo,Toro Pujio,14140390.0,6,65.0
 CORDOBA,San Justo,Toro Pujio,14140390.0,8,12.0
-CORDOBA,San Justo,Transito,,75,42.0
-CORDOBA,San Justo,Transito,,100,24.0
 CORDOBA,San Justo,Tránsito,14140400.0,3,1.0
 CORDOBA,San Justo,Tránsito,14140400.0,4,24.0
 CORDOBA,San Justo,Tránsito,14140400.0,6,39.0
@@ -10077,7 +9935,6 @@ CORDOBA,Santa María,Villa Parque Santa Ana,14147350.0,20,3.0
 CORDOBA,Santa María,Villa San Isidro - José de la Quintana,14147360.0,1,1.0
 CORDOBA,Santa María,Villa San Isidro - José de la Quintana,14147360.0,3,50.0
 CORDOBA,Sobremonte,Caminiaga,14154010.0,10,1.0
-CORDOBA,Sobremonte,San Francisco del Chañar,14154050.0,0,1.0
 CORDOBA,Sobremonte,San Francisco del Chañar,14154050.0,0,1.0
 CORDOBA,Sobremonte,San Francisco del Chañar,14154050.0,20,2.0
 CORDOBA,Tercero Arriba,Almafuerte,14161010.0,1,7.0
@@ -10273,7 +10130,6 @@ CORDOBA,Unión,Chilibroste,14182090.0,4,143.0
 CORDOBA,Unión,Chilibroste,14182090.0,6,7.0
 CORDOBA,Unión,Chilibroste,14182090.0,8,2.0
 CORDOBA,Unión,Cintra,14182100.0,0,1.0
-CORDOBA,Unión,Cintra,14182100.0,0,1.0
 CORDOBA,Unión,Cintra,14182100.0,6,411.0
 CORDOBA,Unión,Cintra,14182100.0,8,19.0
 CORDOBA,Unión,Cintra,14182100.0,10,1.0
@@ -10367,7 +10223,6 @@ CORRIENTES,Bella Vista,Bella Vista,18007010.0,15,15.0
 CORRIENTES,Bella Vista,Bella Vista,18007010.0,20,5.0
 CORRIENTES,Berón de Astrada,Berón de Astrada,18014010.0,0,1.0
 CORRIENTES,Capital,Corrientes,18021020.0,0,50.0
-CORRIENTES,Capital,Corrientes,18021020.0,0,1.0
 CORRIENTES,Capital,Corrientes,18021020.0,0,1.0
 CORRIENTES,Capital,Corrientes,18021020.0,1,351.0
 CORRIENTES,Capital,Corrientes,18021020.0,2,643.0
@@ -10538,14 +10393,12 @@ CORRIENTES,Lavalle,Santa Lucía,18091040.0,3,80.0
 CORRIENTES,Lavalle,Santa Lucía,18091040.0,6,4.0
 CORRIENTES,Lavalle,Santa Lucía,18091040.0,10,8.0
 CORRIENTES,Mburucuyá,Mburucuyá,18098010.0,0,1.0
-CORRIENTES,Mburucuyá,Mburucuyá,18098010.0,0,1.0
 CORRIENTES,Mburucuyá,Mburucuyá,18098010.0,2,43.0
 CORRIENTES,Mburucuyá,Mburucuyá,18098010.0,3,6.0
 CORRIENTES,Mburucuyá,Mburucuyá,18098010.0,100,2.0
 CORRIENTES,Mercedes,Felipe Yofré,18105010.0,0,2.0
 CORRIENTES,Mercedes,Mariano I. Loza  (Est. Justino Solari),18105020.0,0,1.0
 CORRIENTES,Mercedes,Mariano I. Loza  (Est. Justino Solari),18105020.0,1,1.0
-CORRIENTES,Mercedes,Mercedes,18105030.0,0,1.0
 CORRIENTES,Mercedes,Mercedes,18105030.0,0,1.0
 CORRIENTES,Mercedes,Mercedes,18105030.0,0,60.0
 CORRIENTES,Mercedes,Mercedes,18105030.0,1,12.0
@@ -10564,7 +10417,6 @@ CORRIENTES,Monte Caseros,Colonia Libertad,18112010.0,3,65.0
 CORRIENTES,Monte Caseros,Colonia Libertad,18112010.0,5,97.0
 CORRIENTES,Monte Caseros,Colonia Libertad,18112010.0,10,7.0
 CORRIENTES,Monte Caseros,Estación Libertad,18112020.0,5,4.0
-CORRIENTES,Monte Caseros,Juan Pujol,18112030.0,0,1.0
 CORRIENTES,Monte Caseros,Juan Pujol,18112030.0,0,1.0
 CORRIENTES,Monte Caseros,Juan Pujol,18112030.0,4,50.0
 CORRIENTES,Monte Caseros,Juan Pujol,18112030.0,5,323.0
@@ -10596,7 +10448,6 @@ CORRIENTES,Monte Caseros,Parada Acuña,18112060.0,5,9.0
 CORRIENTES,Monte Caseros,Parada Labougle,18112070.0,3,40.0
 CORRIENTES,Monte Caseros,Parada Labougle,18112070.0,5,43.0
 CORRIENTES,Monte Caseros,Parada Labougle,18112070.0,10,6.0
-CORRIENTES,Otros,Otros,,0,830.0
 CORRIENTES,Paso de los Libres,Bonpland,18119010.0,1,1.0
 CORRIENTES,Paso de los Libres,Bonpland,18119010.0,5,55.0
 CORRIENTES,Paso de los Libres,Parada Pucheta,18119020.0,1,1.0
@@ -10655,11 +10506,9 @@ CORRIENTES,San Miguel,San Miguel,18154020.0,3,11.0
 CORRIENTES,San Miguel,San Miguel,18154020.0,15,21.0
 CORRIENTES,San Miguel,San Miguel,18154020.0,100,3.0
 CORRIENTES,San Roque,Chavarría,18161010.0,0,1.0
-CORRIENTES,San Roque,Chavarría,18161010.0,0,1.0
 CORRIENTES,San Roque,Pedro R. Fernández (Est. Manuel F. Mantilla),18161040.0,0,1.0
 CORRIENTES,San Roque,San Roque,18161050.0,0,2.0
 CORRIENTES,Santo Tomé,Gobernador Igr. Valentín Virasoro,18168030.0,0,4.0
-CORRIENTES,Santo Tomé,Gobernador Igr. Valentín Virasoro,18168030.0,0,1.0
 CORRIENTES,Santo Tomé,Gobernador Igr. Valentín Virasoro,18168030.0,0,1.0
 CORRIENTES,Santo Tomé,Gobernador Igr. Valentín Virasoro,18168030.0,1,4.0
 CORRIENTES,Santo Tomé,Gobernador Igr. Valentín Virasoro,18168030.0,3,5.0
@@ -10684,7 +10533,6 @@ CORRIENTES,Sauce,Sauce,18175010.0,5,998.0
 ENTRE RIOS,Colón,Arroyo Barú,30008010.0,20,89.0
 ENTRE RIOS,Colón,Arroyo Barú,30008010.0,50,80.0
 ENTRE RIOS,Colón,Colón,30008020.0,0,1410.0
-ENTRE RIOS,Colón,Colón,30008020.0,0,2.0
 ENTRE RIOS,Colón,Colón,30008020.0,0,2.0
 ENTRE RIOS,Colón,Colón,30008020.0,1,20.0
 ENTRE RIOS,Colón,Colón,30008020.0,2,2.0
@@ -10825,9 +10673,6 @@ ENTRE RIOS,Diamante,General Ramírez,30021120.0,20,12.0
 ENTRE RIOS,Diamante,General Ramírez,30021120.0,30,2219.0
 ENTRE RIOS,Diamante,General Ramírez,30021120.0,50,177.0
 ENTRE RIOS,Diamante,General Ramírez,30021120.0,100,9.0
-ENTRE RIOS,Diamante,OTROS,,2,62.0
-ENTRE RIOS,Diamante,OTROS,,4,49.0
-ENTRE RIOS,Diamante,OTROS,,6,13.0
 ENTRE RIOS,Diamante,Strobel,30021120.0,12,100.0
 ENTRE RIOS,Diamante,Villa Libertador San Martín,30021150.0,1,4.0
 ENTRE RIOS,Diamante,Villa Libertador San Martín,30021150.0,2,170.0
@@ -11086,13 +10931,11 @@ ENTRE RIOS,Nogoyá,Nogoyá,30077070.0,10,366.0
 ENTRE RIOS,Nogoyá,Nogoyá,30077070.0,15,10.0
 ENTRE RIOS,Nogoyá,Nogoyá,30077070.0,16,1.0
 ENTRE RIOS,Nogoyá,Nogoyá,30077070.0,20,32.0
-ENTRE RIOS,Nogoyá,OTROS,,6,13.0
 ENTRE RIOS,Nogoyá,XX de Setiembre,30077080.0,0,4.0
 ENTRE RIOS,Nogoyá,XX de Setiembre,30077080.0,1,5.0
 ENTRE RIOS,Nogoyá,XX de Setiembre,30077080.0,3,16.0
 ENTRE RIOS,Nogoyá,XX de Setiembre,30077080.0,5,12.0
 ENTRE RIOS,Nogoyá,XX de Setiembre,30077080.0,6,4.0
-ENTRE RIOS,Otros,Otros,,0,7251.0
 ENTRE RIOS,Paraná,Aldea María Luisa,30084010.0,2,7.0
 ENTRE RIOS,Paraná,Aldea María Luisa,30084010.0,5,1.0
 ENTRE RIOS,Paraná,Aldea San Rafael,30084020.0,1,1.0
@@ -11183,10 +11026,6 @@ ENTRE RIOS,Paraná,Oro Verde,30084150.0,10,139.0
 ENTRE RIOS,Paraná,Oro Verde,30084150.0,15,19.0
 ENTRE RIOS,Paraná,Oro Verde,30084150.0,20,59.0
 ENTRE RIOS,Paraná,Oro Verde,30084150.0,30,5.0
-ENTRE RIOS,Paraná,OTROS,,2,5.0
-ENTRE RIOS,Paraná,OTROS,,4,2.0
-ENTRE RIOS,Paraná,OTROS,,6,6.0
-ENTRE RIOS,Paraná,Paraná,30084160.0,0,3.0
 ENTRE RIOS,Paraná,Paraná,30084160.0,0,3.0
 ENTRE RIOS,Paraná,Paraná,30084160.0,0,5.0
 ENTRE RIOS,Paraná,Paraná,30084160.0,1,322.0
@@ -11509,9 +11348,6 @@ FORMOSA,Laishi,Herradura,34021030.0,4,23.0
 FORMOSA,Laishi,Herradura,34021030.0,5,9.0
 FORMOSA,Laishi,Herradura,34021030.0,6,7.0
 FORMOSA,Laishi,Herradura,34021030.0,10,27.0
-FORMOSA,Laishi,OTROS,,3,121.0
-FORMOSA,Laishi,OTROS,,4,9.0
-FORMOSA,Laishi,OTROS,,6,2.0
 FORMOSA,Laishi,San Francisco de Laishi,34021040.0,0,0.0
 FORMOSA,Laishi,San Francisco de Laishi,34021040.0,0,3.0
 FORMOSA,Laishi,San Francisco de Laishi,34021040.0,3,115.0
@@ -11535,7 +11371,6 @@ FORMOSA,Matacos,Ingeniero Guillermo N. Juárez,34028010.0,6,36.0
 FORMOSA,Matacos,Ingeniero Guillermo N. Juárez,34028010.0,10,184.0
 FORMOSA,Matacos,Ingeniero Guillermo N. Juárez,34028010.0,15,14.0
 FORMOSA,Matacos,Ingeniero Guillermo N. Juárez,34028010.0,20,7.0
-FORMOSA,Otros,Otros,,0,36.0
 FORMOSA,Patiño,Bartolomé de las Casas,34035010.0,0,1.0
 FORMOSA,Patiño,Bartolomé de las Casas,34035010.0,10,6.0
 FORMOSA,Patiño,Comandante Fontana,34035030.0,2,3.0
@@ -11696,8 +11531,6 @@ FORMOSA,Pirané,El Colorado,34056020.0,12,39.0
 FORMOSA,Pirané,El Colorado,34056020.0,15,255.0
 FORMOSA,Pirané,El Colorado,34056020.0,20,7.0
 FORMOSA,Pirané,El Colorado,34056020.0,25,8.0
-FORMOSA,Pirané,OTROS,,3,35.0
-FORMOSA,Pirané,OTROS,,4,9.0
 FORMOSA,Pirané,Palo Santo,34056030.0,0,1.0
 FORMOSA,Pirané,Palo Santo,34056030.0,1,34.0
 FORMOSA,Pirané,Palo Santo,34056030.0,2,65.0
@@ -11729,7 +11562,6 @@ FORMOSA,Ramón Lista,General Mosconi,34063020.0,0,3.0
 FORMOSA,Ramón Lista,General Mosconi,34063020.0,0,5.0
 FORMOSA,Ramón Lista,General Mosconi,34063020.0,10,32.0
 FORMOSA,Ramón Lista,General Mosconi,34063020.0,100,1.0
-FORMOSA,Ramón Lista,OTROS,,0,8.0
 JUJUY,Cochinoca,Abra Pampa,38007020.0,0,2.0
 JUJUY,Cochinoca,Abra Pampa,38007020.0,0,1.0
 JUJUY,Cochinoca,Abra Pampa,38007020.0,5,221.0
@@ -11746,7 +11578,6 @@ JUJUY,Doctor Manuel Belgrano,Guerrero,38021010.0,15,3.0
 JUJUY,Doctor Manuel Belgrano,León,38021030.0,10,504.0
 JUJUY,Doctor Manuel Belgrano,Lozano (Ap. Chañi),38021040.0,10,111.0
 JUJUY,Doctor Manuel Belgrano,San Salvador de Jujuy (Est. Jujuy),38021060.0,0,3.0
-JUJUY,Doctor Manuel Belgrano,San Salvador de Jujuy (Est. Jujuy),38021060.0,0,2.0
 JUJUY,Doctor Manuel Belgrano,San Salvador de Jujuy (Est. Jujuy),38021060.0,0,2.0
 JUJUY,Doctor Manuel Belgrano,San Salvador de Jujuy (Est. Jujuy),38021060.0,1,129.0
 JUJUY,Doctor Manuel Belgrano,San Salvador de Jujuy (Est. Jujuy),38021060.0,3,362.0
@@ -11770,7 +11601,6 @@ JUJUY,El Carmen,Aguas Calientes,38014010.0,0,10.0
 JUJUY,El Carmen,Aguas Calientes,38014010.0,2,6.0
 JUJUY,El Carmen,Aguas Calientes,38014010.0,5,10.0
 JUJUY,El Carmen,Aguas Calientes,38014010.0,10,1.0
-JUJUY,El Carmen,El Carmen,38014040.0,0,1.0
 JUJUY,El Carmen,El Carmen,38014040.0,0,1.0
 JUJUY,El Carmen,El Carmen,38014040.0,3,5.0
 JUJUY,El Carmen,El Carmen,38014040.0,4,1.0
@@ -11805,7 +11635,6 @@ JUJUY,El Carmen,Puesto Viejo,38014100.0,30,11.0
 JUJUY,El Carmen,Puesto Viejo,38014100.0,50,5.0
 JUJUY,Humahuaca,El Aguilar,38028020.0,0,1.0
 JUJUY,Humahuaca,Hipólito Yrigoyen (Est. Iturbe),38028030.0,5,5.0
-JUJUY,Humahuaca,Humahuaca,38028040.0,0,1.0
 JUJUY,Humahuaca,Humahuaca,38028040.0,0,1.0
 JUJUY,Humahuaca,Humahuaca,38028040.0,1,4.0
 JUJUY,Humahuaca,Humahuaca,38028040.0,3,3.0
@@ -11860,10 +11689,8 @@ JUJUY,Ledesma,Yuto,38035110.0,2,35.0
 JUJUY,Ledesma,Yuto,38035110.0,3,88.0
 JUJUY,Ledesma,Yuto,38035110.0,5,49.0
 JUJUY,Ledesma,Yuto,38035110.0,10,6.0
-JUJUY,Otros,Otros,,0,1374.0
 JUJUY,Palpalá,Carahunco,38042010.0,4,1.0
 JUJUY,Palpalá,Centro Forestal,38042020.0,4,15.0
-JUJUY,Palpalá,Palpalá (Est. Gral. Manuel N. Savio),38042040.0,0,1.0
 JUJUY,Palpalá,Palpalá (Est. Gral. Manuel N. Savio),38042040.0,0,1.0
 JUJUY,Palpalá,Palpalá (Est. Gral. Manuel N. Savio),38042040.0,0,2.0
 JUJUY,Palpalá,Palpalá (Est. Gral. Manuel N. Savio),38042040.0,4,1933.0
@@ -11925,7 +11752,6 @@ JUJUY,SANTA BARBARA,El Talar,38070030.0,0,1.0
 JUJUY,SANTA BARBARA,El Talar,38070030.0,0,5.0
 JUJUY,SANTA BARBARA,El Talar,38070030.0,3,38.0
 JUJUY,SANTA BARBARA,El Talar,38070030.0,5,8.0
-JUJUY,SANTA BARBARA,OTROS,,0,3.0
 JUJUY,SANTA BARBARA,Palma Sola,38070040.0,0,1.0
 JUJUY,SANTA BARBARA,Palma Sola,38070040.0,1,21.0
 JUJUY,SANTA BARBARA,Palma Sola,38070040.0,2,67.0
@@ -11997,7 +11823,6 @@ JUJUY,Tilcara,Maimará,38094040.0,6,36.0
 JUJUY,Tilcara,Maimará,38094040.0,8,31.0
 JUJUY,Tilcara,Maimará,38094040.0,10,18.0
 JUJUY,Tilcara,Tilcara,38094050.0,0,1.0
-JUJUY,Tilcara,Tilcara,38094050.0,0,1.0
 JUJUY,Tilcara,Tilcara,38094050.0,4,201.0
 JUJUY,Tilcara,Tilcara,38094050.0,5,1.0
 JUJUY,Tilcara,Tilcara,38094050.0,6,106.0
@@ -12022,7 +11847,6 @@ JUJUY,Yavi,Cangrejillos,38112020.0,5,5.0
 JUJUY,Yavi,Cangrejillos,38112020.0,6,1.0
 JUJUY,Yavi,La Intermedia,38112040.0,5,5.0
 JUJUY,Yavi,La Quiaca,38112050.0,0,1.0
-JUJUY,Yavi,La Quiaca,38112050.0,0,1.0
 JUJUY,Yavi,La Quiaca,38112050.0,1,342.0
 JUJUY,Yavi,La Quiaca,38112050.0,6,320.0
 JUJUY,Yavi,La Quiaca,38112050.0,10,2.0
@@ -12030,7 +11854,6 @@ JUJUY,Yavi,La Quiaca,38112050.0,20,75.0
 JUJUY,Yavi,La Quiaca,38112050.0,30,1.0
 JUJUY,Yavi,Pumahuasi,38112070.0,5,5.0
 JUJUY,Yavi,Yavi Chico,38112090.0,5,5.0
-LA PAMPA,Atreucó,Doblas,42007010.0,0,1.0
 LA PAMPA,Atreucó,Doblas,42007010.0,0,1.0
 LA PAMPA,Atreucó,Doblas,42007010.0,4,249.0
 LA PAMPA,Atreucó,Doblas,42007010.0,6,34.0
@@ -12127,7 +11950,6 @@ LA PAMPA,Catriló,Uriburu,42028040.0,4,12.0
 LA PAMPA,Catriló,Uriburu,42028040.0,5,10.0
 LA PAMPA,Catriló,Uriburu,42028040.0,10,115.0
 LA PAMPA,Chalileo,Santa Isabel,42049010.0,0,1.0
-LA PAMPA,Chalileo,Santa Isabel,42049010.0,0,1.0
 LA PAMPA,Chalileo,Santa Isabel,42049010.0,2,40.0
 LA PAMPA,Chalileo,Santa Isabel,42049010.0,4,100.0
 LA PAMPA,Chalileo,Santa Isabel,42049010.0,6,195.0
@@ -12137,7 +11959,6 @@ LA PAMPA,Chapaleufú,Bernardo Larroude,42056010.0,0,1.0
 LA PAMPA,Chapaleufú,Bernardo Larroude,42056010.0,6,538.0
 LA PAMPA,Chapaleufú,Bernardo Larroude,42056010.0,10,22.0
 LA PAMPA,Chapaleufú,Bernardo Larroude,42056010.0,20,11.0
-LA PAMPA,Chapaleufú,Ceballos,42056020.0,0,1.0
 LA PAMPA,Chapaleufú,Ceballos,42056020.0,0,1.0
 LA PAMPA,Chapaleufú,Ceballos,42056020.0,3,70.0
 LA PAMPA,Chapaleufú,Ceballos,42056020.0,6,14.0
@@ -12222,7 +12043,6 @@ LA PAMPA,Hucal,Abramo,42077010.0,3,43.0
 LA PAMPA,Hucal,Abramo,42077010.0,6,17.0
 LA PAMPA,Hucal,Abramo,42077010.0,10,9.0
 LA PAMPA,Hucal,Bernasconi,42077020.0,0,1.0
-LA PAMPA,Hucal,Bernasconi,42077020.0,0,1.0
 LA PAMPA,Hucal,Bernasconi,42077020.0,3,341.0
 LA PAMPA,Hucal,Bernasconi,42077020.0,6,208.0
 LA PAMPA,Hucal,Bernasconi,42077020.0,10,155.0
@@ -12236,7 +12056,6 @@ LA PAMPA,Hucal,General San Martín (Est. Villa Alba),42077030.0,5,62.0
 LA PAMPA,Hucal,General San Martín (Est. Villa Alba),42077030.0,10,11.0
 LA PAMPA,Hucal,Jacinto Arauz,42077050.0,0,5.0
 LA PAMPA,Hucal,Jacinto Arauz,42077050.0,0,1.0
-LA PAMPA,Hucal,Jacinto Arauz,42077050.0,0,1.0
 LA PAMPA,Hucal,Jacinto Arauz,42077050.0,2,631.0
 LA PAMPA,Hucal,Jacinto Arauz,42077050.0,3,52.0
 LA PAMPA,Hucal,Jacinto Arauz,42077050.0,5,21.0
@@ -12249,14 +12068,12 @@ LA PAMPA,Limay Mahuida,Limay Mahuida,42091020.0,1,1.0
 LA PAMPA,Limay Mahuida,Limay Mahuida,42091020.0,4,17.0
 LA PAMPA,Limay Mahuida,Limay Mahuida,42091020.0,6,6.0
 LA PAMPA,Loventué,Carro Quemado,42098010.0,0,1.0
-LA PAMPA,Loventué,Carro Quemado,42098010.0,0,1.0
 LA PAMPA,Loventué,Carro Quemado,42098010.0,3,20.0
 LA PAMPA,Loventué,Carro Quemado,42098010.0,6,30.0
 LA PAMPA,Loventué,Loventué,42098020.0,0,1.0
 LA PAMPA,Loventué,Luan Toro,42098030.0,0,1.0
 LA PAMPA,Loventué,Luan Toro,42098030.0,3,21.0
 LA PAMPA,Loventué,Luan Toro,42098030.0,6,46.0
-LA PAMPA,Loventué,Telén,42098040.0,0,1.0
 LA PAMPA,Loventué,Telén,42098040.0,0,1.0
 LA PAMPA,Loventué,Telén,42098040.0,3,50.0
 LA PAMPA,Loventué,Telén,42098040.0,6,148.0
@@ -12285,7 +12102,6 @@ LA PAMPA,Maracó,General Pico,42105030.0,60,2098.0
 LA PAMPA,Maracó,General Pico,42105030.0,120,1536.0
 LA PAMPA,Maracó,Speluzzi,42105040.0,0,1.0
 LA PAMPA,Maracó,Speluzzi,42105040.0,5,41.0
-LA PAMPA,OTROS,OTROS,,3,1.0
 LA PAMPA,Puelén,25 de Mayo,42112020.0,0,18.0
 LA PAMPA,Puelén,25 de Mayo,42112020.0,2,482.0
 LA PAMPA,Puelén,25 de Mayo,42112020.0,3,264.0
@@ -12327,7 +12143,6 @@ LA PAMPA,Quemú Quemú,Villa Mirasol,42119060.0,8,3.0
 LA PAMPA,Quemú Quemú,Villa Mirasol,42119060.0,10,1.0
 LA PAMPA,Quemú Quemú,Villa Mirasol,42119060.0,15,3.0
 LA PAMPA,Rancul,Caleufú,42126010.0,0,2.0
-LA PAMPA,Rancul,Caleufú,42126010.0,0,2.0
 LA PAMPA,Rancul,Caleufú,42126010.0,3,541.0
 LA PAMPA,Rancul,Caleufú,42126010.0,10,68.0
 LA PAMPA,Rancul,La Maruja,42126030.0,0,1.0
@@ -12345,7 +12160,6 @@ LA PAMPA,Rancul,Parera,42126040.0,40,23.0
 LA PAMPA,Rancul,Parera,42126040.0,80,4.0
 LA PAMPA,Rancul,Parera,42126040.0,100,1.0
 LA PAMPA,Rancul,Quetrequén,42126060.0,0,1.0
-LA PAMPA,Rancul,Quetrequén,42126060.0,0,1.0
 LA PAMPA,Rancul,Quetrequén,42126060.0,1,11.0
 LA PAMPA,Rancul,Quetrequén,42126060.0,2,12.0
 LA PAMPA,Rancul,Quetrequén,42126060.0,3,22.0
@@ -12354,7 +12168,6 @@ LA PAMPA,Rancul,Quetrequén,42126060.0,15,21.0
 LA PAMPA,Rancul,Quetrequén,42126060.0,20,4.0
 LA PAMPA,Rancul,Quetrequén,42126060.0,40,2.0
 LA PAMPA,Rancul,Rancul,42126070.0,0,3.0
-LA PAMPA,Rancul,Rancul,42126070.0,0,1.0
 LA PAMPA,Rancul,Rancul,42126070.0,0,1.0
 LA PAMPA,Rancul,Rancul,42126070.0,1,179.0
 LA PAMPA,Rancul,Rancul,42126070.0,2,123.0
@@ -12390,7 +12203,6 @@ LA PAMPA,Realicó,Damián Maisonave (Est. Simson),42133030.0,20,12.0
 LA PAMPA,Realicó,Damián Maisonave (Est. Simson),42133030.0,40,8.0
 LA PAMPA,Realicó,Damián Maisonave (Est. Simson),42133030.0,80,1.0
 LA PAMPA,Realicó,Embajador Martini,42133040.0,0,1.0
-LA PAMPA,Realicó,Embajador Martini,42133040.0,0,1.0
 LA PAMPA,Realicó,Embajador Martini,42133040.0,1,173.0
 LA PAMPA,Realicó,Embajador Martini,42133040.0,3,262.0
 LA PAMPA,Realicó,Embajador Martini,42133040.0,3,3.0
@@ -12416,7 +12228,6 @@ LA PAMPA,Realicó,Ingeniero Luiggi,42133060.0,10,21.0
 LA PAMPA,Realicó,Ingeniero Luiggi,42133060.0,30,3.0
 LA PAMPA,Realicó,Ojeda,42133070.0,4,3.0
 LA PAMPA,Realicó,Ojeda,42133070.0,6,5.0
-LA PAMPA,Realicó,Realicó,42133080.0,0,1.0
 LA PAMPA,Realicó,Realicó,42133080.0,0,1.0
 LA PAMPA,Realicó,Realicó,42133080.0,1,44.0
 LA PAMPA,Realicó,Realicó,42133080.0,2,39.0
@@ -12449,15 +12260,12 @@ LA PAMPA,Toay,Toay,42140020.0,100,752.0
 LA PAMPA,Toay,Toay,42140020.0,300,7.0
 LA PAMPA,Toay,Toay,42140020.0,500,6.0
 LA PAMPA,Trenel,Arata,42147010.0,0,1.0
-LA PAMPA,Trenel,Arata,42147010.0,0,1.0
 LA PAMPA,Trenel,Arata,42147010.0,1,24.0
 LA PAMPA,Trenel,Arata,42147010.0,2,115.0
 LA PAMPA,Trenel,Arata,42147010.0,4,90.0
 LA PAMPA,Trenel,Arata,42147010.0,25,20.0
 LA PAMPA,Trenel,Metileo,42147020.0,0,1.0
 LA PAMPA,Trenel,Metileo,42147020.0,5,60.0
-LA PAMPA,Trenel,Trenel,42147030.0,0,1.0
-LA PAMPA,Trenel,Trenel,42147030.0,0,1.0
 LA PAMPA,Trenel,Trenel,42147030.0,0,1.0
 LA PAMPA,Trenel,Trenel,42147030.0,3,4.0
 LA PAMPA,Trenel,Trenel,42147030.0,5,122.0
@@ -12472,7 +12280,6 @@ LA PAMPA,Utracán,Ataliva Roca,42154010.0,4,202.0
 LA PAMPA,Utracán,Ataliva Roca,42154010.0,6,61.0
 LA PAMPA,Utracán,Ataliva Roca,42154010.0,10,23.0
 LA PAMPA,Utracán,Ataliva Roca,42154010.0,15,47.0
-LA PAMPA,Utracán,Chacharramendi,42154020.0,0,1.0
 LA PAMPA,Utracán,Chacharramendi,42154020.0,0,1.0
 LA PAMPA,Utracán,Chacharramendi,42154020.0,4,82.0
 LA PAMPA,Utracán,Chacharramendi,42154020.0,6,16.0
@@ -12496,7 +12303,6 @@ LA PAMPA,Utracán,General Acha,42154040.0,20,287.0
 LA PAMPA,Utracán,General Acha,42154040.0,30,113.0
 LA PAMPA,Utracán,General Acha,42154040.0,50,10.0
 LA PAMPA,Utracán,Quehué,42154050.0,0,1.0
-LA PAMPA,Utracán,Quehué,42154050.0,0,1.0
 LA PAMPA,Utracán,Quehué,42154050.0,10,218.0
 LA PAMPA,Utracán,Quehué,42154050.0,15,32.0
 LA PAMPA,Utracán,Quehué,42154050.0,20,50.0
@@ -12518,9 +12324,6 @@ LA RIOJA,Arauco,Estación Mazán,46007040.0,12,8.0
 LA RIOJA,Arauco,Estación Mazán,46007040.0,20,8.0
 LA RIOJA,Arauco,Villa Mazán,46007050.0,12,108.0
 LA RIOJA,Arauco,Villa Mazán,46007050.0,20,49.0
-LA RIOJA,Capital,La Rioja,46014010.0,0,1.0
-LA RIOJA,Capital,La Rioja,46014010.0,0,1.0
-LA RIOJA,Capital,La Rioja,46014010.0,0,1.0
 LA RIOJA,Capital,La Rioja,46014010.0,0,1.0
 LA RIOJA,Capital,La Rioja,46014010.0,1,172.0
 LA RIOJA,Capital,La Rioja,46014010.0,2,8.0
@@ -12692,13 +12495,11 @@ LA RIOJA,General San Martín,Ulapes,46091010.0,12,681.0
 LA RIOJA,General San Martín,Ulapes,46091010.0,30,8.0
 LA RIOJA,General San Martín,Ulapes,46091010.0,50,3.0
 LA RIOJA,Independencia,Amaná,46105010.0,1,1.0
-LA RIOJA,Independencia,OTROS,,0,1.0
 LA RIOJA,Independencia,Patquía,46105020.0,3,2.0
 LA RIOJA,Independencia,Patquía,46105020.0,6,3.0
 LA RIOJA,Independencia,Patquía,46105020.0,10,9.0
 LA RIOJA,Independencia,Patquía,46105020.0,12,102.0
 LA RIOJA,Independencia,Patquía,46105020.0,20,183.0
-LA RIOJA,Otros,Otros,,0,1.0
 LA RIOJA,Rosario Vera Peñaloza,Chepes,46112010.0,0,1.0
 LA RIOJA,Rosario Vera Peñaloza,Chepes,46112010.0,1,1.0
 LA RIOJA,Rosario Vera Peñaloza,Chepes,46112010.0,3,98.0
@@ -12882,11 +12683,6 @@ MENDOZA,Guaymallén,Los Corralitos,50028040.0,3,20.0
 MENDOZA,Guaymallén,Los Corralitos,50028040.0,3,36.0
 MENDOZA,Guaymallén,Los Corralitos,50028040.0,8,16.0
 MENDOZA,Guaymallén,Los Corralitos,50028040.0,15,48.0
-MENDOZA,Guaymallén,Otros,,1,75.0
-MENDOZA,Guaymallén,Otros,,2,48.0
-MENDOZA,Guaymallén,Otros,,3,8.0
-MENDOZA,Guaymallén,Otros,,5,5.0
-MENDOZA,Guaymallén,Otros,,10,14.0
 MENDOZA,Guaymallén,Puente de Hierro,50028050.0,0,105.0
 MENDOZA,Guaymallén,Puente de Hierro,50028050.0,0,3.0
 MENDOZA,Guaymallén,Puente de Hierro,50028050.0,0,8.0
@@ -12952,10 +12748,6 @@ MENDOZA,Junín,Medrano,50035050.0,2,246.0
 MENDOZA,Junín,Medrano,50035050.0,3,43.0
 MENDOZA,Junín,Medrano,50035050.0,5,27.0
 MENDOZA,Junín,Medrano,50035050.0,10,73.0
-MENDOZA,Junín,Otros,,6,2.0
-MENDOZA,Junín,Otros,,15,5.0
-MENDOZA,Junín,Otros,,30,17.0
-MENDOZA,Junín,Otros,,50,6.0
 MENDOZA,Junín,Phillips,50035060.0,1,1.0
 MENDOZA,Junín,Rodríguez Peña,50035070.0,0,15.0
 MENDOZA,Junín,Rodríguez Peña,50035070.0,1,11.0
@@ -13159,16 +12951,11 @@ MENDOZA,Malargüe,Las Leñas,50077030.0,0,2.0
 MENDOZA,Malargüe,Las Leñas,50077030.0,25,1.0
 MENDOZA,Malargüe,Malargüe,50077040.0,0,3.0
 MENDOZA,Malargüe,Malargüe,50077040.0,0,1.0
-MENDOZA,Malargüe,Malargüe,50077040.0,0,3.0
 MENDOZA,Malargüe,Malargüe,50077040.0,3,14.0
 MENDOZA,Malargüe,Malargüe,50077040.0,6,22.0
 MENDOZA,Malargüe,Malargüe,50077040.0,10,1560.0
 MENDOZA,Malargüe,Malargüe,50077040.0,20,37.0
 MENDOZA,Malargüe,Malargüe,50077040.0,30,9.0
-MENDOZA,Otros,Otros,,0,1709.0
-MENDOZA,OTROS,OTROS,,1,3.0
-MENDOZA,OTROS,OTROS,,3,3.0
-MENDOZA,OTROS,OTROS,,6,1.0
 MENDOZA,Rivadavia,Andrade,50084010.0,2,10.0
 MENDOZA,Rivadavia,Andrade,50084010.0,4,3.0
 MENDOZA,Rivadavia,Barrio Cooperativa Los Campamentos,50084020.0,2,5.0
@@ -13292,11 +13079,6 @@ MENDOZA,San Martín,Nueva California,50098090.0,2,15.0
 MENDOZA,San Martín,Nueva California,50098090.0,3,3.0
 MENDOZA,San Martín,Nueva California,50098090.0,5,2.0
 MENDOZA,San Martín,Nueva California,50098090.0,10,4.0
-MENDOZA,San Martín,Otros,,1,47.0
-MENDOZA,San Martín,Otros,,2,30.0
-MENDOZA,San Martín,Otros,,3,4.0
-MENDOZA,San Martín,Otros,,5,4.0
-MENDOZA,San Martín,Otros,,10,9.0
 MENDOZA,San Martín,Palmira,50098090.0,1,9.0
 MENDOZA,San Martín,Palmira,50098090.0,2,6.0
 MENDOZA,San Martín,Palmira,50098090.0,3,1.0
@@ -13511,7 +13293,6 @@ MISIONES,Cainguás,Dos de Mayo Núcleo I,54014030.0,6,8.0
 MISIONES,Cainguás,Dos de Mayo Núcleo I,54014030.0,10,1.0
 MISIONES,Cainguás,Dos de Mayo Núcleo I,54014030.0,30,2.0
 MISIONES,Cainguás,Dos de Mayo Núcleo III,54014050.0,10,287.0
-MISIONES,Cainguás,OTROS,,0,6.0
 MISIONES,Cainguás,Pueblo Illia,54014070.0,10,83.0
 MISIONES,Cainguás,Salto Encantado,54014080.0,0,1.0
 MISIONES,Cainguás,Salto Encantado,54014080.0,1,4.0
@@ -13766,7 +13547,6 @@ MISIONES,Oberá,San Martín,54091110.0,10,1.0
 MISIONES,Oberá,Villa Bonita,54091120.0,2,24.0
 MISIONES,Oberá,Villa Bonita,54091120.0,3,10.0
 MISIONES,Oberá,Villa Bonita,54091120.0,5,2.0
-MISIONES,OTROS,Otros,,0,6127.0
 MISIONES,San Ignacio,Colonia Polana,54098010.0,7,46.0
 MISIONES,San Ignacio,Corpus,54098020.0,5,165.0
 MISIONES,San Ignacio,Corpus,54098020.0,6,124.0
@@ -13831,7 +13611,6 @@ MISIONES,San Javier,San Javier,54105040.0,3,400.0
 MISIONES,San Pedro,Cruce Caballero,54112010.0,5,32.0
 MISIONES,San Pedro,Cruce Caballero,54112010.0,10,5.0
 MISIONES,San Pedro,Cruce Caballero,54112010.0,20,1.0
-MISIONES,San Pedro,Otros,,0,15.0
 MISIONES,San Pedro,Paraíso,54112020.0,0,8.0
 MISIONES,San Pedro,Paraíso,54112020.0,5,500.0
 MISIONES,San Pedro,Paraíso,54112020.0,10,95.0
@@ -13853,7 +13632,6 @@ MISIONES,San Pedro,San Pedro,54112040.0,50,1.0
 MISIONES,San Pedro,Tobuna,54112050.0,5,12.0
 MISIONES,San Pedro,Tobuna,54112050.0,10,3.0
 NEUQUEN,Aluminé,Aluminé,58007010.0,0,1.0
-NEUQUEN,Aluminé,Aluminé,58007010.0,0,1.0
 NEUQUEN,Aluminé,Aluminé,58007010.0,5,681.0
 NEUQUEN,Aluminé,Aluminé,58007010.0,10,37.0
 NEUQUEN,Aluminé,Aluminé,58007010.0,12,240.0
@@ -13870,7 +13648,6 @@ NEUQUEN,Aluminé,Moquehue,58007015.0,15,14.0
 NEUQUEN,Aluminé,Moquehue,58007015.0,20,1.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,0,1.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,0,2.0
-NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,0,1.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,3,152.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,5,212.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,8,251.0
@@ -13879,8 +13656,6 @@ NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,12,1.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,15,71.0
 NEUQUEN,Aluminé,Villa Pehuenia,58007020.0,20,17.0
 NEUQUEN,Añelo,Añelo,58014010.0,0,1.0
-NEUQUEN,Añelo,Añelo,58014010.0,0,1.0
-NEUQUEN,Añelo,Añelo,58014010.0,0,1.0
 NEUQUEN,Añelo,Añelo,58014010.0,0,13.0
 NEUQUEN,Añelo,Añelo,58014010.0,1,15.0
 NEUQUEN,Añelo,Añelo,58014010.0,3,232.0
@@ -13888,8 +13663,6 @@ NEUQUEN,Añelo,Añelo,58014010.0,6,83.0
 NEUQUEN,Añelo,Añelo,58014010.0,10,108.0
 NEUQUEN,Añelo,Añelo,58014010.0,20,2.0
 NEUQUEN,Añelo,Añelo,58014010.0,30,366.0
-NEUQUEN,Añelo,San Patricio del Chañar,58014020.0,0,1.0
-NEUQUEN,Añelo,San Patricio del Chañar,58014020.0,0,1.0
 NEUQUEN,Añelo,San Patricio del Chañar,58014020.0,0,1.0
 NEUQUEN,Añelo,San Patricio del Chañar,58014020.0,1,200.0
 NEUQUEN,Añelo,San Patricio del Chañar,58014020.0,6,11.0
@@ -13919,7 +13692,6 @@ NEUQUEN,Chos Malal,Chos Malal,58042010.0,12,3.0
 NEUQUEN,Chos Malal,Chos Malal,58042010.0,15,246.0
 NEUQUEN,Chos Malal,Tricao Malal,58042020.0,10,44.0
 NEUQUEN,Collón Curá,Piedra del Águila,58028010.0,0,0.0
-NEUQUEN,Collón Curá,Piedra del Águila,58028010.0,0,1.0
 NEUQUEN,Collón Curá,Piedra del Águila,58028010.0,0,1.0
 NEUQUEN,Collón Curá,Santo Tomás,58028020.0,0,0.0
 NEUQUEN,Collón Curá,Santo Tomás,58028020.0,1,1.0
@@ -13982,8 +13754,6 @@ NEUQUEN,Confluencia,Neuquén,58035070.0,100,27649.0
 NEUQUEN,Confluencia,Neuquén,58035070.0,300,23704.0
 NEUQUEN,Confluencia,Neuquén,58035070.0,500,2248.0
 NEUQUEN,Confluencia,Neuquén,58035070.0,1000,557.0
-NEUQUEN,Confluencia,OTROS,,0,3.0
-NEUQUEN,Confluencia,Plaza Huincul,58035090.0,0,1.0
 NEUQUEN,Confluencia,Plaza Huincul,58035090.0,0,1.0
 NEUQUEN,Confluencia,Plaza Huincul,58035090.0,2,148.0
 NEUQUEN,Confluencia,Plaza Huincul,58035090.0,3,114.0
@@ -13991,7 +13761,6 @@ NEUQUEN,Confluencia,Plaza Huincul,58035090.0,6,341.0
 NEUQUEN,Confluencia,Plaza Huincul,58035090.0,10,414.0
 NEUQUEN,Confluencia,Plaza Huincul,58035090.0,15,209.0
 NEUQUEN,Confluencia,Plaza Huincul,58035090.0,30,196.0
-NEUQUEN,Confluencia,Plottier,58035100.0,0,2.0
 NEUQUEN,Confluencia,Plottier,58035100.0,0,2.0
 NEUQUEN,Confluencia,Plottier,58035100.0,0,1.0
 NEUQUEN,Confluencia,Plottier,58035100.0,1,47.0
@@ -14014,7 +13783,6 @@ NEUQUEN,Confluencia,Plottier,58035100.0,100,1685.0
 NEUQUEN,Confluencia,Plottier,58035100.0,300,885.0
 NEUQUEN,Confluencia,Plottier,58035100.0,500,82.0
 NEUQUEN,Confluencia,Plottier,58035100.0,1000,21.0
-NEUQUEN,Confluencia,Senillosa,58035110.0,0,1.0
 NEUQUEN,Confluencia,Senillosa,58035110.0,0,1.0
 NEUQUEN,Confluencia,Senillosa,58035110.0,1,17.0
 NEUQUEN,Confluencia,Senillosa,58035110.0,2,139.0
@@ -14039,7 +13807,6 @@ NEUQUEN,Confluencia,Vista Alegre Sur,58035140.0,0,1.0
 NEUQUEN,Confluencia,Vista Alegre Sur,58035140.0,6,270.0
 NEUQUEN,Confluencia,Vista Alegre Sur,58035140.0,50,325.0
 NEUQUEN,Huiliches,Junín de los Andes,58049010.0,0,1072.0
-NEUQUEN,Huiliches,Junín de los Andes,58049010.0,0,1.0
 NEUQUEN,Huiliches,Junín de los Andes,58049010.0,0,1.0
 NEUQUEN,Huiliches,Junín de los Andes,58049010.0,1,36.0
 NEUQUEN,Huiliches,Junín de los Andes,58049010.0,2,22.0
@@ -14084,7 +13851,6 @@ NEUQUEN,Loncopué,Chorriaca,58063010.0,2,39.0
 NEUQUEN,Loncopué,Chorriaca,58063010.0,3,3.0
 NEUQUEN,Loncopué,Loncopué,58063020.0,0,1.0
 NEUQUEN,Loncopué,Loncopué,58063020.0,0,4.0
-NEUQUEN,Loncopué,Loncopué,58063020.0,0,1.0
 NEUQUEN,Loncopué,Loncopué,58063020.0,1,2.0
 NEUQUEN,Loncopué,Loncopué,58063020.0,2,94.0
 NEUQUEN,Loncopué,Loncopué,58063020.0,5,590.0
@@ -14107,7 +13873,6 @@ NEUQUEN,Los Lagos,Villa La Angostura,58070010.0,60,7.0
 NEUQUEN,Los Lagos,Villa La Angostura,58070010.0,100,2.0
 NEUQUEN,Los Lagos,Villa La Angostura,58070010.0,150,1.0
 NEUQUEN,Los Lagos,Villa La Angostura,58070010.0,250,1.0
-NEUQUEN,Los Lagos,Villa Traful,58070020.0,0,1.0
 NEUQUEN,Los Lagos,Villa Traful,58070020.0,0,1.0
 NEUQUEN,Los Lagos,Villa Traful,58070020.0,20,1.0
 NEUQUEN,Minas,Andacollo,58077010.0,0,2.0
@@ -14147,11 +13912,9 @@ NEUQUEN,Ñorquín,El Huecú,58084040.0,1,49.0
 NEUQUEN,Ñorquín,El Huecú,58084040.0,2,10.0
 NEUQUEN,Ñorquín,El Huecú,58084040.0,10,177.0
 NEUQUEN,Ñorquín,Taquimilán,58084050.0,10,44.0
-NEUQUEN,Otros,Otros,,0,8221.0
 NEUQUEN,Pehuenches,Barrancas,58091010.0,5,108.0
 NEUQUEN,Pehuenches,Buta Ranquil,58091020.0,0,2.0
 NEUQUEN,Pehuenches,Buta Ranquil,58091020.0,0,1.0
-NEUQUEN,Pehuenches,Rincón de los Sauces,58091040.0,0,3.0
 NEUQUEN,Pehuenches,Rincón de los Sauces,58091040.0,0,3.0
 NEUQUEN,Pehuenches,Rincón de los Sauces,58091040.0,2,30.0
 NEUQUEN,Pehuenches,Rincón de los Sauces,58091040.0,3,849.0
@@ -14170,10 +13933,8 @@ NEUQUEN,Picún Leufú,Picún Leufú,58098020.0,3,1.0
 NEUQUEN,Picunches,Bajada del Agrio,58105010.0,0,0.0
 NEUQUEN,Picunches,Las Lajas,58105030.0,0,0.0
 NEUQUEN,Picunches,Las Lajas,58105030.0,0,1.0
-NEUQUEN,Picunches,Las Lajas,58105030.0,0,1.0
 NEUQUEN,Zapala,Los Catutos,58112010.0,1,1.0
 NEUQUEN,Zapala,Los Catutos,58112010.0,2,26.0
-NEUQUEN,Zapala,Mariano Moreno,58112020.0,0,1.0
 NEUQUEN,Zapala,Mariano Moreno,58112020.0,0,1.0
 NEUQUEN,Zapala,Mariano Moreno,58112020.0,1,1.0
 NEUQUEN,Zapala,Mariano Moreno,58112020.0,3,18.0
@@ -14212,7 +13973,6 @@ RIO NEGRO,25 de Mayo,Ingeniero Jacobacci,62091050.0,3,32.0
 RIO NEGRO,25 de Mayo,Ingeniero Jacobacci,62091050.0,8,376.0
 RIO NEGRO,25 de Mayo,Ingeniero Jacobacci,62091050.0,15,230.0
 RIO NEGRO,25 de Mayo,Ingeniero Jacobacci,62091050.0,50,797.0
-RIO NEGRO,25 de Mayo,Los Menucos,62091060.0,0,1.0
 RIO NEGRO,25 de Mayo,Los Menucos,62091060.0,0,1.0
 RIO NEGRO,25 de Mayo,Los Menucos,62091060.0,10,21.0
 RIO NEGRO,25 de Mayo,Los Menucos,62091060.0,20,30.0
@@ -14275,7 +14035,6 @@ RIO NEGRO,Avellaneda,Chimpay,62014030.0,50,6.0
 RIO NEGRO,Avellaneda,Chimpay,62014030.0,80,1.0
 RIO NEGRO,Avellaneda,Chimpay,62014030.0,150,1.0
 RIO NEGRO,Avellaneda,Choele Choel,62014040.0,0,1.0
-RIO NEGRO,Avellaneda,Choele Choel,62014040.0,0,1.0
 RIO NEGRO,Avellaneda,Choele Choel,62014040.0,0,7.0
 RIO NEGRO,Avellaneda,Choele Choel,62014040.0,3,37.0
 RIO NEGRO,Avellaneda,Choele Choel,62014040.0,5,1.0
@@ -14317,7 +14076,6 @@ RIO NEGRO,Avellaneda,Lamarque,62014070.0,80,5.0
 RIO NEGRO,Avellaneda,Lamarque,62014070.0,100,1.0
 RIO NEGRO,Avellaneda,Lamarque,62014070.0,200,2.0
 RIO NEGRO,Avellaneda,Lamarque,62014070.0,500,1.0
-RIO NEGRO,Avellaneda,Luis Beltrán,62014080.0,0,1.0
 RIO NEGRO,Avellaneda,Luis Beltrán,62014080.0,0,1.0
 RIO NEGRO,Avellaneda,Luis Beltrán,62014080.0,2,2.0
 RIO NEGRO,Avellaneda,Luis Beltrán,62014080.0,5,34.0
@@ -14396,10 +14154,8 @@ RIO NEGRO,Conesa,General Conesa,62028020.0,3,5.0
 RIO NEGRO,Conesa,General Conesa,62028020.0,8,5.0
 RIO NEGRO,Conesa,General Conesa,62028020.0,15,78.0
 RIO NEGRO,Conesa,General Conesa,62028020.0,40,8.0
-RIO NEGRO,Conesa,OTROS,,0,1.0
 RIO NEGRO,El Cuy,Aguada Guzmán,62035010.0,2,2.0
 RIO NEGRO,El Cuy,Cerro Policía,62035020.0,0,1.0
-RIO NEGRO,El Cuy,El Cuy,62035030.0,0,1.0
 RIO NEGRO,El Cuy,El Cuy,62035030.0,0,1.0
 RIO NEGRO,El Cuy,El Cuy,62035030.0,0,2.0
 RIO NEGRO,El Cuy,El Cuy,62035030.0,2,1.0
@@ -14420,7 +14176,6 @@ RIO NEGRO,El Cuy,Valle Azul,62035080.0,5,25.0
 RIO NEGRO,El Cuy,Valle Azul,62035080.0,6,25.0
 RIO NEGRO,General Roca,Allen,62042010.0,0,2.0
 RIO NEGRO,General Roca,Allen,62042010.0,0,1.0
-RIO NEGRO,General Roca,Allen,62042010.0,0,2.0
 RIO NEGRO,General Roca,Allen,62042010.0,0,9.0
 RIO NEGRO,General Roca,Allen,62042010.0,2,74.0
 RIO NEGRO,General Roca,Allen,62042010.0,3,238.0
@@ -14483,9 +14238,7 @@ RIO NEGRO,General Roca,Cinco Saltos,62042390.0,120,67.0
 RIO NEGRO,General Roca,Cinco Saltos,62042390.0,300,656.0
 RIO NEGRO,General Roca,Cipolletti,62042400.0,0,6.0
 RIO NEGRO,General Roca,Cipolletti,62042400.0,0,1.0
-RIO NEGRO,General Roca,Cipolletti,62042400.0,0,1.0
 RIO NEGRO,General Roca,Cipolletti,62042400.0,0,3.0
-RIO NEGRO,General Roca,Cipolletti,62042400.0,0,1.0
 RIO NEGRO,General Roca,Cipolletti,62042400.0,1,3.0
 RIO NEGRO,General Roca,Cipolletti,62042400.0,2,90.0
 RIO NEGRO,General Roca,Cipolletti,62042400.0,3,333.0
@@ -14524,8 +14277,6 @@ RIO NEGRO,General Roca,General Enrique Godoy,62042430.0,6,42.0
 RIO NEGRO,General Roca,General Enrique Godoy,62042430.0,10,75.0
 RIO NEGRO,General Roca,General Enrique Godoy,62042430.0,20,2.0
 RIO NEGRO,General Roca,General Fernández Oro,62042440.0,0,1.0
-RIO NEGRO,General Roca,General Fernández Oro,62042440.0,0,1.0
-RIO NEGRO,General Roca,General Fernández Oro,62042440.0,0,1.0
 RIO NEGRO,General Roca,General Fernández Oro,62042440.0,2,83.0
 RIO NEGRO,General Roca,General Fernández Oro,62042440.0,3,64.0
 RIO NEGRO,General Roca,General Fernández Oro,62042440.0,3,69.0
@@ -14543,7 +14294,6 @@ RIO NEGRO,General Roca,General Fernández Oro,62042440.0,120,69.0
 RIO NEGRO,General Roca,General Roca,62042450.0,0,4.0
 RIO NEGRO,General Roca,General Roca,62042450.0,0,1.0
 RIO NEGRO,General Roca,General Roca,62042450.0,0,7.0
-RIO NEGRO,General Roca,General Roca,62042450.0,0,4.0
 RIO NEGRO,General Roca,General Roca,62042450.0,0,98.0
 RIO NEGRO,General Roca,General Roca,62042450.0,1,7.0
 RIO NEGRO,General Roca,General Roca,62042450.0,3,345.0
@@ -14606,7 +14356,6 @@ RIO NEGRO,Ñorquincó,Mamuel Choique,62056020.0,2,1.0
 RIO NEGRO,Ñorquincó,Ñorquincó,62056030.0,0,1.0
 RIO NEGRO,Ñorquincó,Ñorquincó,62056030.0,3,6.0
 RIO NEGRO,Ñorquincó,Río Chico (Est. Cerro Mesa),62056050.0,2,2.0
-RIO NEGRO,Otros,Otros,,0,408.0
 RIO NEGRO,Pichi Mahuida,Barrio Esperanza,62063005.0,1,1.0
 RIO NEGRO,Pichi Mahuida,Colonia Juliá y Echarren,62063010.0,0,1.0
 RIO NEGRO,Pichi Mahuida,Colonia Juliá y Echarren,62063010.0,1,1.0
@@ -14614,8 +14363,6 @@ RIO NEGRO,Pichi Mahuida,Colonia Juliá y Echarren,62063010.0,5,4.0
 RIO NEGRO,Pichi Mahuida,Colonia Juliá y Echarren,62063010.0,10,29.0
 RIO NEGRO,Pichi Mahuida,Juventud Unida,62063013.0,1,1.0
 RIO NEGRO,Pichi Mahuida,Pichi Mahuida,62063017.0,0,1.0
-RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,0,1.0
-RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,0,1.0
 RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,0,1.0
 RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,0,17.0
 RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,1,1.0
@@ -14630,7 +14377,6 @@ RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,20,5.0
 RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,25,123.0
 RIO NEGRO,Pichi Mahuida,Río Colorado,62063020.0,50,1127.0
 RIO NEGRO,Pichi Mahuida,Salto Andersen,62063060.0,1,1.0
-RIO NEGRO,Pilcaniyeu,Comallo,62070010.0,0,1.0
 RIO NEGRO,Pilcaniyeu,Comallo,62070010.0,0,1.0
 RIO NEGRO,Pilcaniyeu,Comallo,62070010.0,5,345.0
 RIO NEGRO,Pilcaniyeu,Comallo,62070010.0,60,6.0
@@ -14650,7 +14396,6 @@ RIO NEGRO,Pilcaniyeu,Pilcaniyeu,62070060.0,4,1.0
 RIO NEGRO,Pilcaniyeu,Pilcaniyeu,62070060.0,40,3.0
 RIO NEGRO,Pilcaniyeu,Pilquiniyeu del Limay,62070070.0,2,1.0
 RIO NEGRO,Pilcaniyeu,Villa Llanquín,62070080.0,2,1.0
-RIO NEGRO,San Antonio,Las Grutas,62077010.0,0,1.0
 RIO NEGRO,San Antonio,Las Grutas,62077010.0,0,1.0
 RIO NEGRO,San Antonio,Las Grutas,62077010.0,3,57.0
 RIO NEGRO,San Antonio,Las Grutas,62077010.0,8,100.0
@@ -14677,7 +14422,6 @@ RIO NEGRO,San Antonio,San Antonio Oeste,62077050.0,15,210.0
 RIO NEGRO,San Antonio,San Antonio Oeste,62077050.0,50,3395.0
 RIO NEGRO,San Antonio,San Antonio Oeste,62077050.0,100,10.0
 RIO NEGRO,San Antonio,Sierra Grande,62077060.0,0,1.0
-RIO NEGRO,San Antonio,Sierra Grande,62077060.0,0,1.0
 RIO NEGRO,San Antonio,Sierra Grande,62077060.0,0,2.0
 RIO NEGRO,San Antonio,Sierra Grande,62077060.0,1,104.0
 RIO NEGRO,San Antonio,Sierra Grande,62077060.0,2,141.0
@@ -14694,8 +14438,6 @@ RIO NEGRO,Valcheta,Arroyo Los Berros,62084020.0,2,2.0
 RIO NEGRO,Valcheta,Arroyo Ventana,62084030.0,2,1.0
 RIO NEGRO,Valcheta,Nahuel Niyeu,62084040.0,20,13.0
 RIO NEGRO,Valcheta,Sierra Pailemán,62084050.0,2,2.0
-RIO NEGRO,Valcheta,Valcheta,62084060.0,0,1.0
-RIO NEGRO,Valcheta,Valcheta,62084060.0,0,1.0
 RIO NEGRO,Valcheta,Valcheta,62084060.0,0,1.0
 RIO NEGRO,Valcheta,Valcheta,62084060.0,1,28.0
 RIO NEGRO,Valcheta,Valcheta,62084060.0,2,9.0
@@ -14715,7 +14457,6 @@ SALTA,Anta,Coronel Mollinedo,66007040.0,0,1.0
 SALTA,Anta,Coronel Mollinedo,66007040.0,5,1.0
 SALTA,Anta,Coronel Olleros,66007050.0,5,2.0
 SALTA,Anta,El Quebrachal,66007060.0,0,1.0
-SALTA,Anta,El Quebrachal,66007060.0,0,1.0
 SALTA,Anta,El Quebrachal,66007060.0,2,1.0
 SALTA,Anta,El Quebrachal,66007060.0,4,534.0
 SALTA,Anta,El Quebrachal,66007060.0,5,548.0
@@ -14724,7 +14465,6 @@ SALTA,Anta,El Quebrachal,66007060.0,10,493.0
 SALTA,Anta,El Quebrachal,66007060.0,12,14.0
 SALTA,Anta,El Quebrachal,66007060.0,15,20.0
 SALTA,Anta,El Quebrachal,66007060.0,20,28.0
-SALTA,Anta,Gaona,66007070.0,0,1.0
 SALTA,Anta,Gaona,66007070.0,0,1.0
 SALTA,Anta,Gaona,66007070.0,4,206.0
 SALTA,Anta,Gaona,66007070.0,5,203.0
@@ -14747,7 +14487,6 @@ SALTA,Anta,Joaquín V. González,66007090.0,12,65.0
 SALTA,Anta,Joaquín V. González,66007090.0,15,41.0
 SALTA,Anta,Joaquín V. González,66007090.0,20,1.0
 SALTA,Anta,Joaquín V. González,66007090.0,100,2.0
-SALTA,Anta,Las Lajitas,66007100.0,0,1.0
 SALTA,Anta,Las Lajitas,66007100.0,0,1.0
 SALTA,Anta,Las Lajitas,66007100.0,1,4.0
 SALTA,Anta,Las Lajitas,66007100.0,2,658.0
@@ -14805,11 +14544,9 @@ SALTA,Capital,La Ciénaga y Barrio San Rafael,66028030.0,15,2.0
 SALTA,Capital,Las Costas,66028040.0,1,20.0
 SALTA,Capital,Las Costas,66028040.0,6,22.0
 SALTA,Capital,Las Costas,66028040.0,10,7.0
-SALTA,Capital,OTROS,,0,1.0
 SALTA,Capital,Salta,66028050.0,0,36.0
 SALTA,Capital,Salta,66028050.0,0,1.0
 SALTA,Capital,Salta,66028050.0,0,2.0
-SALTA,Capital,Salta,66028050.0,0,1.0
 SALTA,Capital,Salta,66028050.0,1,316.0
 SALTA,Capital,Salta,66028050.0,2,15.0
 SALTA,Capital,Salta,66028050.0,3,641.0
@@ -14829,7 +14566,6 @@ SALTA,Capital,Salta,66028050.0,300,23466.0
 SALTA,Capital,Salta,66028050.0,500,1133.0
 SALTA,Capital,Salta,66028050.0,600,1181.0
 SALTA,Capital,Salta,66028050.0,1000,404.0
-SALTA,Capital,Villa San Lorenzo,66028060.0,0,1.0
 SALTA,Capital,Villa San Lorenzo,66028060.0,0,1.0
 SALTA,Capital,Villa San Lorenzo,66028060.0,1,37.0
 SALTA,Capital,Villa San Lorenzo,66028060.0,3,45.0
@@ -14887,7 +14623,6 @@ SALTA,Chicoana,Barrio La Rotonda,66042005.0,10,160.0
 SALTA,Chicoana,Barrio Santa Teresita,66042007.0,10,60.0
 SALTA,Chicoana,Chicoana,66042010.0,0,15.0
 SALTA,Chicoana,Chicoana,66042010.0,0,1.0
-SALTA,Chicoana,Chicoana,66042010.0,0,1.0
 SALTA,Chicoana,Chicoana,66042010.0,1,7.0
 SALTA,Chicoana,Chicoana,66042010.0,3,5.0
 SALTA,Chicoana,Chicoana,66042010.0,5,2.0
@@ -14914,14 +14649,12 @@ SALTA,General Güemes,Cobos,66049020.0,999,1.0
 SALTA,General Güemes,El Bordo,66049030.0,3,5.0
 SALTA,General Güemes,El Bordo,66049030.0,10,61.0
 SALTA,General Güemes,General Güemes,66049040.0,0,2.0
-SALTA,General Güemes,General Güemes,66049040.0,0,2.0
 SALTA,General Güemes,General Güemes,66049040.0,1,31.0
 SALTA,General Güemes,General Güemes,66049040.0,3,271.0
 SALTA,General Güemes,General Güemes,66049040.0,6,278.0
 SALTA,General Güemes,General Güemes,66049040.0,10,436.0
 SALTA,General Güemes,General Güemes,66049040.0,15,31.0
 SALTA,General Güemes,General Güemes,66049040.0,20,6.0
-SALTA,Grl. José de San Martín,Aguaray,66056010.0,0,1.0
 SALTA,Grl. José de San Martín,Aguaray,66056010.0,0,1.0
 SALTA,Grl. José de San Martín,Aguaray,66056010.0,1,3.0
 SALTA,Grl. José de San Martín,Aguaray,66056010.0,2,435.0
@@ -14987,7 +14720,6 @@ SALTA,Grl. José de San Martín,Profesor Salvador Mazza,66056200.0,20,10.0
 SALTA,Grl. José de San Martín,Tartagal,66056220.0,0,3021.0
 SALTA,Grl. José de San Martín,Tartagal,66056220.0,0,2.0
 SALTA,Grl. José de San Martín,Tartagal,66056220.0,0,1.0
-SALTA,Grl. José de San Martín,Tartagal,66056220.0,0,1.0
 SALTA,Grl. José de San Martín,Tartagal,66056220.0,1,79.0
 SALTA,Grl. José de San Martín,Tartagal,66056220.0,3,208.0
 SALTA,Grl. José de San Martín,Tartagal,66056220.0,4,4429.0
@@ -15006,7 +14738,6 @@ SALTA,Grl. José de San Martín,Tobantirenda,66056230.0,10,3.0
 SALTA,Grl. José de San Martín,Yacuy,66056250.0,3,6.0
 SALTA,Grl. José de San Martín,Yacuy,66056250.0,10,3.0
 SALTA,Guachipas,Guachipas,66063010.0,0,35.0
-SALTA,Guachipas,Guachipas,66063010.0,0,1.0
 SALTA,Guachipas,Guachipas,66063010.0,0,1.0
 SALTA,Guachipas,Guachipas,66063010.0,3,35.0
 SALTA,Guachipas,Guachipas,66063010.0,5,84.0
@@ -15187,20 +14918,15 @@ SALTA,Orán,San Ramón de la Nueva Orán,66126070.0,300,1786.0
 SALTA,Orán,San Ramón de la Nueva Orán,66126070.0,500,142.0
 SALTA,Orán,San Ramón de la Nueva Orán,66126070.0,1000,22.0
 SALTA,Orán,Urundel,66126080.0,0,1.0
-SALTA,Orán,Urundel,66126080.0,0,1.0
 SALTA,Orán,Urundel,66126080.0,3,75.0
 SALTA,Orán,Urundel,66126080.0,5,11.0
 SALTA,Orán,Urundel,66126080.0,10,1.0
-SALTA,Otros,Otros,,0,185.0
-SALTA,OTROS,OTROS,,1,1.0
-SALTA,OTROS,OTROS,,3,1.0
 SALTA,Rivadavia,Alto de la Sierra,66133010.0,0,3.0
 SALTA,Rivadavia,Alto de la Sierra,66133010.0,0,5.0
 SALTA,Rivadavia,Alto de la Sierra,66133010.0,10,1.0
 SALTA,Rivadavia,Capitán Juan Pagé,66133020.0,4,3.0
 SALTA,Rivadavia,Capitán Juan Pagé,66133020.0,6,1.0
 SALTA,Rivadavia,Capitán Juan Pagé,66133020.0,10,1.0
-SALTA,Rivadavia,Coronel Juan Solá,66133030.0,0,1.0
 SALTA,Rivadavia,Coronel Juan Solá,66133030.0,0,1.0
 SALTA,Rivadavia,Coronel Juan Solá,66133030.0,1,1.0
 SALTA,Rivadavia,Coronel Juan Solá,66133030.0,3,33.0
@@ -15326,7 +15052,6 @@ SAN JUAN,25 de Mayo,Villa Santa Rosa,70126050.0,10,8.0
 SAN JUAN,25 de Mayo,Villa Santa Rosa,70126050.0,15,4.0
 SAN JUAN,25 de Mayo,Villa Santa Rosa,70126050.0,20,1.0
 SAN JUAN,9 de Julio,9 de Julio,70063040.0,0,1.0
-SAN JUAN,9 de Julio,9 de Julio,70063040.0,0,1.0
 SAN JUAN,9 de Julio,9 de Julio,70063040.0,1,139.0
 SAN JUAN,9 de Julio,9 de Julio,70063040.0,3,100.0
 SAN JUAN,9 de Julio,9 de Julio,70063040.0,4,6.0
@@ -15345,7 +15070,6 @@ SAN JUAN,9 de Julio,Las Chacritas,70063030.0,6,30.0
 SAN JUAN,9 de Julio,Las Chacritas,70063030.0,10,2.0
 SAN JUAN,9 de Julio,Las Chacritas,70063030.0,12,6.0
 SAN JUAN,9 de Julio,Las Chacritas,70063030.0,20,5.0
-SAN JUAN,9 de Julio,OTROS,,0,1.0
 SAN JUAN,Albardón,El Rincón,70007010.0,0,24.0
 SAN JUAN,Albardón,El Rincón,70007010.0,3,1.0
 SAN JUAN,Albardón,El Rincón,70007010.0,3,256.0
@@ -15353,7 +15077,6 @@ SAN JUAN,Albardón,El Rincón,70007010.0,5,1.0
 SAN JUAN,Albardón,El Rincón,70007010.0,8,132.0
 SAN JUAN,Albardón,El Rincón,70007010.0,15,96.0
 SAN JUAN,Albardón,El Rincón,70007010.0,30,2.0
-SAN JUAN,Albardón,Otros,,0,300.0
 SAN JUAN,Albardón,Villa General San Martin,70007010.0,6,15.0
 SAN JUAN,Albardón,Villa General San Martin,70007010.0,10,16.0
 SAN JUAN,Albardón,Villa General San Martin,70007010.0,15,23.0
@@ -15365,7 +15088,6 @@ SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,70007020.0,7,12.0
 SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,70007020.0,10,92.0
 SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,70007020.0,20,7.0
 SAN JUAN,Albardón,Villa General San Martín - Campo Afuera,70007020.0,30,2.0
-SAN JUAN,Angaco,Otros,,0,72.0
 SAN JUAN,Angaco,Villa El Salvador - Villa Sefair,70014020.0,3,50.0
 SAN JUAN,Angaco,Villa El Salvador - Villa Sefair,70014020.0,5,20.0
 SAN JUAN,Angaco,Villa El Salvador - Villa Sefair,70014020.0,6,38.0
@@ -15491,14 +15213,10 @@ SAN JUAN,Jáchal,Tamberías,70056090.0,1,28.0
 SAN JUAN,Jáchal,Tamberías,70056090.0,2,15.0
 SAN JUAN,Jáchal,Tamberías,70056090.0,10,37.0
 SAN JUAN,Jáchal,Villa Mercedes,70056110.0,0,1.0
-SAN JUAN,Jáchal,Villa Mercedes,70056110.0,0,1.0
 SAN JUAN,Jáchal,Villa Mercedes,70056110.0,1,53.0
 SAN JUAN,Jáchal,Villa Mercedes,70056110.0,2,31.0
 SAN JUAN,Jáchal,Villa Mercedes,70056110.0,3,10.0
 SAN JUAN,Jáchal,Villa Mercedes,70056110.0,10,63.0
-SAN JUAN,Otros,Otros,,0,5617.0
-SAN JUAN,OTROS,OTROS,,1,1.0
-SAN JUAN,OTROS,OTROS,,3,3.0
 SAN JUAN,Pocito,Quinto Cuartel,70070030.0,6,32.0
 SAN JUAN,Pocito,Quinto Cuartel,70070030.0,10,5.0
 SAN JUAN,Pocito,Quinto Cuartel,70070030.0,20,27.0
@@ -15616,7 +15334,6 @@ SAN JUAN,Ullum,Villa Ibáñez,70112010.0,10,4.0
 SAN JUAN,Ullum,Villa Ibáñez,70112010.0,20,35.0
 SAN JUAN,Ullum,Villa Ibáñez,70112010.0,30,2.0
 SAN JUAN,Valle Fértil,Astica,70119010.0,6,30.0
-SAN JUAN,Valle Fértil,Otros,,0,190.0
 SAN JUAN,Valle Fértil,Villa San Agustín,70119060.0,0,3.0
 SAN JUAN,Valle Fértil,Villa San Agustín,70119060.0,1,1.0
 SAN JUAN,Valle Fértil,Villa San Agustín,70119060.0,6,260.0
@@ -15634,7 +15351,6 @@ SAN LUIS,Ayacucho,Leandro N. Alem,74007030.0,25,11.0
 SAN LUIS,Ayacucho,Lomas Blancas,74007010.0,25,30.0
 SAN LUIS,Ayacucho,Luján,74007040.0,6,105.0
 SAN LUIS,Ayacucho,Luján,74007040.0,25,1040.0
-SAN LUIS,Ayacucho,OTROS,,0,3.0
 SAN LUIS,Ayacucho,Pampa Grande,74007010.0,10,1.0
 SAN LUIS,Ayacucho,Quines,74007050.0,0,1.0
 SAN LUIS,Ayacucho,Quines,74007050.0,25,1468.0
@@ -15685,7 +15401,6 @@ SAN LUIS,Coronel Pringles,La Toma,74021060.0,2,100.0
 SAN LUIS,Coronel Pringles,La Toma,74021060.0,6,375.0
 SAN LUIS,Coronel Pringles,La Toma,74021060.0,25,1721.0
 SAN LUIS,Coronel Pringles,La Toma,74021060.0,1000,751.0
-SAN LUIS,Coronel Pringles,OTROS,,0,27.0
 SAN LUIS,Coronel Pringles,Río Grande,74021080.0,25,274.0
 SAN LUIS,Coronel Pringles,Saladillo,74021090.0,20,1.0
 SAN LUIS,Coronel Pringles,Saladillo,74021090.0,25,103.0
@@ -15873,7 +15588,6 @@ SAN LUIS,Libertador Grl. San Martín,San Martín,74063070.0,1000,92.0
 SAN LUIS,Libertador Grl. San Martín,Villa de Praga,74063080.0,0,1.0
 SAN LUIS,Libertador Grl. San Martín,Villa de Praga,74063080.0,25,340.0
 SAN LUIS,Libertador Grl. San Martín,Villa de Praga,74063080.0,1000,22.0
-SAN LUIS,Otros,Otros,,0,5963.0
 SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,78007010.0,0,1831.0
 SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,78007010.0,0,1.0
 SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,78007010.0,0,2.0
@@ -15882,7 +15596,6 @@ SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,78007010.0,3,46.0
 SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,78007010.0,8,199.0
 SANTA CRUZ,Corpen Aike,Comandante Luis Piedrabuena,78007010.0,15,371.0
 SANTA CRUZ,Corpen Aike,Puerto Santa Cruz,78007020.0,0,776.0
-SANTA CRUZ,Corpen Aike,Puerto Santa Cruz,78007020.0,0,1.0
 SANTA CRUZ,Corpen Aike,Puerto Santa Cruz,78007020.0,0,1.0
 SANTA CRUZ,Corpen Aike,Puerto Santa Cruz,78007020.0,0,11.0
 SANTA CRUZ,Corpen Aike,Puerto Santa Cruz,78007020.0,2,1.0
@@ -16001,20 +15714,16 @@ SANTA CRUZ,Lago Argentino,El Chaltén,78028020.0,3,341.0
 SANTA CRUZ,Lago Argentino,El Chaltén,78028020.0,6,80.0
 SANTA CRUZ,Lago Argentino,Tres Lagos,78028030.0,0,122.0
 SANTA CRUZ,Lago Argentino,Tres Lagos,78028030.0,0,1.0
-SANTA CRUZ,Lago Argentino,Tres Lagos,78028030.0,0,1.0
 SANTA CRUZ,Lago Argentino,Tres Lagos,78028030.0,2,1.0
-SANTA CRUZ,Lago Buenos Aires,Los Antiguos,78035010.0,0,1.0
 SANTA CRUZ,Lago Buenos Aires,Los Antiguos,78035010.0,0,1.0
 SANTA CRUZ,Lago Buenos Aires,Los Antiguos,78035010.0,1,31.0
 SANTA CRUZ,Lago Buenos Aires,Los Antiguos,78035010.0,8,1.0
 SANTA CRUZ,Lago Buenos Aires,Perito Moreno,78035020.0,0,665.0
 SANTA CRUZ,Lago Buenos Aires,Perito Moreno,78035020.0,0,1.0
-SANTA CRUZ,Lago Buenos Aires,Perito Moreno,78035020.0,0,1.0
 SANTA CRUZ,Lago Buenos Aires,Perito Moreno,78035020.0,1,1.0
 SANTA CRUZ,Lago Buenos Aires,Perito Moreno,78035020.0,4,1.0
 SANTA CRUZ,Lago Buenos Aires,Perito Moreno,78035020.0,10,2701.0
 SANTA CRUZ,Magallanes,Puerto San Julián,78042010.0,0,1997.0
-SANTA CRUZ,Magallanes,Puerto San Julián,78042010.0,0,2.0
 SANTA CRUZ,Magallanes,Puerto San Julián,78042010.0,0,2.0
 SANTA CRUZ,Magallanes,Puerto San Julián,78042010.0,0,12.0
 SANTA CRUZ,Magallanes,Puerto San Julián,78042010.0,1,3.0
@@ -16296,8 +16005,6 @@ SANTA FE,Castellanos,Presidente Roca,82021290.0,6,137.0
 SANTA FE,Castellanos,Presidente Roca,82021290.0,100,1.0
 SANTA FE,Castellanos,Pueblo Marini,82021300.0,5,11.0
 SANTA FE,Castellanos,Rafaela,82021310.0,0,3.0
-SANTA FE,Castellanos,Rafaela,82021310.0,0,1.0
-SANTA FE,Castellanos,Rafaela,82021310.0,0,1.0
 SANTA FE,Castellanos,Rafaela,82021310.0,0,1.0
 SANTA FE,Castellanos,Rafaela,82021310.0,1,67.0
 SANTA FE,Castellanos,Rafaela,82021310.0,2,2.0
@@ -16738,7 +16445,6 @@ SANTA FE,General Obligado,Malabrigo,82049150.0,150,500.0
 SANTA FE,General Obligado,Paraje San Manuel,82049160.0,0,1.0
 SANTA FE,General Obligado,Reconquista,82049180.0,0,801.0
 SANTA FE,General Obligado,Reconquista,82049180.0,0,1.0
-SANTA FE,General Obligado,Reconquista,82049180.0,0,1.0
 SANTA FE,General Obligado,Reconquista,82049180.0,1,331.0
 SANTA FE,General Obligado,Reconquista,82049180.0,3,1100.0
 SANTA FE,General Obligado,Reconquista,82049180.0,5,766.0
@@ -16926,7 +16632,6 @@ SANTA FE,La Capital,Recreo,82063140.0,300,1001.0
 SANTA FE,La Capital,Recreo,82063140.0,500,48.0
 SANTA FE,La Capital,Recreo,82063140.0,1000,3.0
 SANTA FE,La Capital,San José del Rincón,82063160.0,0,1.0
-SANTA FE,La Capital,San José del Rincón,82063160.0,0,1.0
 SANTA FE,La Capital,San José del Rincón,82063160.0,1,155.0
 SANTA FE,La Capital,San José del Rincón,82063160.0,2,598.0
 SANTA FE,La Capital,San José del Rincón,82063160.0,3,466.0
@@ -17069,7 +16774,6 @@ SANTA FE,Las Colonias,Nuevo Torino,82070160.0,0,72.0
 SANTA FE,Las Colonias,Nuevo Torino,82070160.0,5,2.0
 SANTA FE,Las Colonias,Nuevo Torino,82070160.0,6,3.0
 SANTA FE,Las Colonias,Nuevo Torino,82070160.0,15,78.0
-SANTA FE,Las Colonias,OTROS,,6,16.0
 SANTA FE,Las Colonias,Pilar,82070170.0,5,2.0
 SANTA FE,Las Colonias,Pilar,82070170.0,15,112.0
 SANTA FE,Las Colonias,Pilar,82070170.0,100,10.0
@@ -17138,7 +16842,6 @@ SANTA FE,Las Colonias,Sarmiento,82070310.0,5,2.0
 SANTA FE,Las Colonias,Sarmiento,82070310.0,10,1.0
 SANTA FE,Las Colonias,Sarmiento,82070310.0,15,178.0
 SANTA FE,Las Colonias,Sarmiento,82070310.0,30,113.0
-SANTA FE,Otros,Otros,,0,10553.0
 SANTA FE,Rosario,Acebal,82084010.0,0,1.0
 SANTA FE,Rosario,Acebal,82084010.0,1,1.0
 SANTA FE,Rosario,Acebal,82084010.0,3,1.0
@@ -17439,7 +17142,6 @@ SANTA FE,San Cristóbal,Monigotes,82091190.0,15,44.0
 SANTA FE,San Cristóbal,Monigotes,82091190.0,20,3.0
 SANTA FE,San Cristóbal,Monigotes,82091190.0,25,1.0
 SANTA FE,San Cristóbal,Ñanducita,82091200.0,0,37.0
-SANTA FE,San Cristóbal,OTROS,,15,8.0
 SANTA FE,San Cristóbal,Palacios,82091210.0,3,24.0
 SANTA FE,San Cristóbal,Palacios,82091210.0,6,13.0
 SANTA FE,San Cristóbal,Palacios,82091210.0,7,2.0
@@ -17640,7 +17342,6 @@ SANTA FE,San Justo,Marcelino Escalada,82112080.0,15,68.0
 SANTA FE,San Justo,Marcelino Escalada,82112080.0,20,2.0
 SANTA FE,San Justo,Naré,82112090.0,15,12.0
 SANTA FE,San Justo,Naré,82112090.0,50,1.0
-SANTA FE,San Justo,OTROS,,0,28.0
 SANTA FE,San Justo,Pedro Gómez Cello,82112100.0,0,0.0
 SANTA FE,San Justo,Pedro Gómez Cello,82112100.0,1,72.0
 SANTA FE,San Justo,Pedro Gómez Cello,82112100.0,8,20.0
@@ -17726,7 +17427,6 @@ SANTA FE,San Lorenzo,Luis Palacios (Est. La Salada),82119070.0,4,1.0
 SANTA FE,San Lorenzo,Luis Palacios (Est. La Salada),82119070.0,8,45.0
 SANTA FE,San Lorenzo,Luis Palacios (Est. La Salada),82119070.0,200,478.0
 SANTA FE,San Lorenzo,Puerto General San Martín,82119080.0,0,215.0
-SANTA FE,San Lorenzo,Puerto General San Martín,82119080.0,0,1.0
 SANTA FE,San Lorenzo,Puerto General San Martín,82119080.0,0,1.0
 SANTA FE,San Lorenzo,Puerto General San Martín,82119080.0,1,1.0
 SANTA FE,San Lorenzo,Puerto General San Martín,82119080.0,4,1.0
@@ -17943,7 +17643,6 @@ SANTIAGO DEL ESTERO,Alberdi,Coronel Manuel L. Rico,86014020.0,0,1.0
 SANTIAGO DEL ESTERO,Alberdi,Donadeu,86014030.0,10,1.0
 SANTIAGO DEL ESTERO,Alberdi,Donadeu,86014030.0,15,1.0
 SANTIAGO DEL ESTERO,Alberdi,Sachayoj,86014040.0,0,1.0
-SANTIAGO DEL ESTERO,Alberdi,Sachayoj,86014040.0,0,1.0
 SANTIAGO DEL ESTERO,Alberdi,Sachayoj,86014040.0,2,1.0
 SANTIAGO DEL ESTERO,Alberdi,Sachayoj,86014040.0,5,171.0
 SANTIAGO DEL ESTERO,Alberdi,Sachayoj,86014040.0,10,27.0
@@ -17960,11 +17659,9 @@ SANTIAGO DEL ESTERO,Atamisqui,Medellín,86021020.0,3,29.0
 SANTIAGO DEL ESTERO,Atamisqui,Medellín,86021020.0,10,1.0
 SANTIAGO DEL ESTERO,Atamisqui,Medellín,86021020.0,15,1.0
 SANTIAGO DEL ESTERO,Atamisqui,Villa Atamisqui,86021030.0,0,1.0
-SANTIAGO DEL ESTERO,Atamisqui,Villa Atamisqui,86021030.0,0,1.0
 SANTIAGO DEL ESTERO,Atamisqui,Villa Atamisqui,86021030.0,3,45.0
 SANTIAGO DEL ESTERO,Atamisqui,Villa Atamisqui,86021030.0,10,2.0
 SANTIAGO DEL ESTERO,Atamisqui,Villa Atamisqui,86021030.0,100,1.0
-SANTIAGO DEL ESTERO,Avellaneda,Colonia Dora,86028010.0,0,1.0
 SANTIAGO DEL ESTERO,Avellaneda,Colonia Dora,86028010.0,0,1.0
 SANTIAGO DEL ESTERO,Avellaneda,Colonia Dora,86028010.0,3,1.0
 SANTIAGO DEL ESTERO,Avellaneda,Colonia Dora,86028010.0,6,4.0
@@ -18053,7 +17750,6 @@ SANTIAGO DEL ESTERO,Capital,Santa María,86049100.0,10,1.0
 SANTIAGO DEL ESTERO,Capital,Santa María,86049100.0,30,1.0
 SANTIAGO DEL ESTERO,Capital,Santiago del Estero,86049110.0,0,1.0
 SANTIAGO DEL ESTERO,Capital,Santiago del Estero,86049110.0,0,4.0
-SANTIAGO DEL ESTERO,Capital,Santiago del Estero,86049110.0,0,1.0
 SANTIAGO DEL ESTERO,Capital,Santiago del Estero,86049110.0,0,908.0
 SANTIAGO DEL ESTERO,Capital,Santiago del Estero,86049110.0,1,119.0
 SANTIAGO DEL ESTERO,Capital,Santiago del Estero,86049110.0,2,5.0
@@ -18079,7 +17775,6 @@ SANTIAGO DEL ESTERO,Capital,Yanda,86049130.0,15,1.0
 SANTIAGO DEL ESTERO,Capital,Yanda,86049130.0,20,1.0
 SANTIAGO DEL ESTERO,Capital,Yanda,86049130.0,30,2.0
 SANTIAGO DEL ESTERO,Choya,Choya,86063020.0,0,1.0
-SANTIAGO DEL ESTERO,Choya,Choya,86063020.0,0,1.0
 SANTIAGO DEL ESTERO,Choya,Choya,86063020.0,6,3.0
 SANTIAGO DEL ESTERO,Choya,Choya,86063020.0,10,46.0
 SANTIAGO DEL ESTERO,Choya,Choya,86063020.0,15,1.0
@@ -18090,7 +17785,6 @@ SANTIAGO DEL ESTERO,Choya,Estación La Punta,86063030.0,6,109.0
 SANTIAGO DEL ESTERO,Choya,Estación La Punta,86063030.0,10,189.0
 SANTIAGO DEL ESTERO,Choya,Estación La Punta,86063030.0,15,7.0
 SANTIAGO DEL ESTERO,Choya,Frías,86063040.0,0,26.0
-SANTIAGO DEL ESTERO,Choya,Frías,86063040.0,0,1.0
 SANTIAGO DEL ESTERO,Choya,Frías,86063040.0,0,1.0
 SANTIAGO DEL ESTERO,Choya,Frías,86063040.0,1,47.0
 SANTIAGO DEL ESTERO,Choya,Frías,86063040.0,3,966.0
@@ -18161,7 +17855,6 @@ SANTIAGO DEL ESTERO,Figueroa,Villa Figueroa,86070100.0,0,3.0
 SANTIAGO DEL ESTERO,Figueroa,Villa Figueroa,86070100.0,10,1.0
 SANTIAGO DEL ESTERO,General Taboada,Añatuya,86077010.0,0,0.0
 SANTIAGO DEL ESTERO,General Taboada,Añatuya,86077010.0,0,2.0
-SANTIAGO DEL ESTERO,General Taboada,Añatuya,86077010.0,0,2.0
 SANTIAGO DEL ESTERO,General Taboada,Añatuya,86077010.0,3,105.0
 SANTIAGO DEL ESTERO,General Taboada,Añatuya,86077010.0,6,2.0
 SANTIAGO DEL ESTERO,General Taboada,Añatuya,86077010.0,8,12.0
@@ -18220,7 +17913,6 @@ SANTIAGO DEL ESTERO,Juan F. Ibarra,Matará,86098030.0,10,2.0
 SANTIAGO DEL ESTERO,Juan F. Ibarra,Matará,86098030.0,20,1.0
 SANTIAGO DEL ESTERO,Juan F. Ibarra,Matará,86098030.0,30,1.0
 SANTIAGO DEL ESTERO,Juan F. Ibarra,Suncho Corral,86098040.0,0,1.0
-SANTIAGO DEL ESTERO,Juan F. Ibarra,Suncho Corral,86098040.0,0,1.0
 SANTIAGO DEL ESTERO,Juan F. Ibarra,Suncho Corral,86098040.0,1,1.0
 SANTIAGO DEL ESTERO,Juan F. Ibarra,Suncho Corral,86098040.0,3,33.0
 SANTIAGO DEL ESTERO,Juan F. Ibarra,Suncho Corral,86098040.0,5,40.0
@@ -18260,7 +17952,6 @@ SANTIAGO DEL ESTERO,Moreno,Pueblo Pablo Torelo (Est. Otumpa),86119090.0,10,1.0
 SANTIAGO DEL ESTERO,Moreno,Pueblo Pablo Torelo (Est. Otumpa),86119090.0,15,1.0
 SANTIAGO DEL ESTERO,Moreno,Quimilí,86119100.0,0,0.0
 SANTIAGO DEL ESTERO,Moreno,Quimilí,86119100.0,0,3.0
-SANTIAGO DEL ESTERO,Moreno,Quimilí,86119100.0,0,3.0
 SANTIAGO DEL ESTERO,Moreno,Quimilí,86119100.0,1,1.0
 SANTIAGO DEL ESTERO,Moreno,Quimilí,86119100.0,3,6.0
 SANTIAGO DEL ESTERO,Moreno,Quimilí,86119100.0,4,661.0
@@ -18283,8 +17974,6 @@ SANTIAGO DEL ESTERO,Moreno,Tintina,86119120.0,40,1.0
 SANTIAGO DEL ESTERO,Moreno,Tintina,86119120.0,100,1.0
 SANTIAGO DEL ESTERO,Moreno,Weisburd,86119130.0,6,1.0
 SANTIAGO DEL ESTERO,Moreno,Weisburd,86119130.0,8,43.0
-SANTIAGO DEL ESTERO,Ojo de Agua,OTROS,,0,4.0
-SANTIAGO DEL ESTERO,Ojo de Agua,Sol de Julio,86126020.0,0,1.0
 SANTIAGO DEL ESTERO,Ojo de Agua,Sol de Julio,86126020.0,0,1.0
 SANTIAGO DEL ESTERO,Ojo de Agua,Sol de Julio,86126020.0,1,39.0
 SANTIAGO DEL ESTERO,Ojo de Agua,Sol de Julio,86126020.0,10,1.0
@@ -18294,7 +17983,6 @@ SANTIAGO DEL ESTERO,Ojo de Agua,Villa Ojo de Agua,86126030.0,10,3.0
 SANTIAGO DEL ESTERO,Ojo de Agua,Villa Ojo de Agua,86126030.0,30,1.0
 SANTIAGO DEL ESTERO,Ojo de Agua,Villa Ojo de Agua,86126030.0,50,1.0
 SANTIAGO DEL ESTERO,Ojo de Agua,Villa Ojo de Agua,86126030.0,100,1.0
-SANTIAGO DEL ESTERO,OTROS,Otros,,0,0.0
 SANTIAGO DEL ESTERO,Pellegrini,El Mojón,86133010.0,0,20.0
 SANTIAGO DEL ESTERO,Pellegrini,El Mojón,86133010.0,0,4.0
 SANTIAGO DEL ESTERO,Pellegrini,El Mojón,86133010.0,10,2.0
@@ -18350,7 +18038,6 @@ SANTIAGO DEL ESTERO,Rivadavia,Colonia Alpina,86154010.0,4,42.0
 SANTIAGO DEL ESTERO,Rivadavia,Colonia Alpina,86154010.0,6,6.0
 SANTIAGO DEL ESTERO,Rivadavia,Colonia Alpina,86154010.0,10,5.0
 SANTIAGO DEL ESTERO,Rivadavia,Palo Negro,86154020.0,10,1.0
-SANTIAGO DEL ESTERO,Rivadavia,Selva,86154030.0,0,1.0
 SANTIAGO DEL ESTERO,Rivadavia,Selva,86154030.0,0,1.0
 SANTIAGO DEL ESTERO,Rivadavia,Selva,86154030.0,4,442.0
 SANTIAGO DEL ESTERO,Rivadavia,Selva,86154030.0,5,1.0
@@ -18420,10 +18107,6 @@ SANTIAGO DEL ESTERO,Silípica,Nueva Francia,86189020.0,10,1.0
 SANTIAGO DEL ESTERO,Silípica,Nueva Francia,86189020.0,30,1.0
 SANTIAGO DEL ESTERO,Silípica,Simbol,86189030.0,10,1.0
 SANTIAGO DEL ESTERO,Silípica,Simbol,86189030.0,20,1.0
-TIERRA DEL FUEGO,Antartida Argentina,Base Belgrano Ii,,10,1.0
-TIERRA DEL FUEGO,ANTARTIDA ARGENTINA,Base Orcadas,,1024,1.0
-TIERRA DEL FUEGO,Antartida Argentina,Base San Martin,,10,1.0
-TIERRA DEL FUEGO,Otros,Otros,,0,4.0
 TIERRA DEL FUEGO,Río Grande,Río Grande,94007010.0,0,5140.0
 TIERRA DEL FUEGO,Río Grande,Río Grande,94007010.0,0,8.0
 TIERRA DEL FUEGO,Río Grande,Río Grande,94007010.0,0,9.0
@@ -18493,11 +18176,9 @@ TUCUMAN,Burruyacú,7 de Abril,90007080.0,10,1.0
 TUCUMAN,Burruyacú,Garmendia,90007040.0,3,1.0
 TUCUMAN,Burruyacú,Garmendia,90007040.0,5,1.0
 TUCUMAN,Burruyacú,Garmendia,90007040.0,10,1.0
-TUCUMAN,Burruyacú,OTROS,,0,1.0
 TUCUMAN,Burruyacú,Piedrabuena,90007070.0,3,1.0
 TUCUMAN,Burruyacú,Piedrabuena,90007070.0,5,1.0
 TUCUMAN,Burruyacú,Piedrabuena,90007070.0,10,1.0
-TUCUMAN,Burruyacú,Villa Burruyacú,90007100.0,0,1.0
 TUCUMAN,Burruyacú,Villa Burruyacú,90007100.0,0,1.0
 TUCUMAN,Burruyacú,Villa Burruyacú,90007100.0,2,1.0
 TUCUMAN,Burruyacú,Villa Burruyacú,90007100.0,3,1.0
@@ -18594,7 +18275,6 @@ TUCUMAN,Cruz Alta,San Andrés,90014130.0,6,6.0
 TUCUMAN,Cruz Alta,San Andrés,90014130.0,10,282.0
 TUCUMAN,Cruz Alta,San Andrés,90014130.0,15,17.0
 TUCUMAN,Cruz Alta,San Andrés,90014130.0,20,16.0
-TUCUMAN,Famaillá,Famaillá,90028030.0,0,1.0
 TUCUMAN,Famaillá,Famaillá,90028030.0,0,1.0
 TUCUMAN,Famaillá,Famaillá,90028030.0,1,4.0
 TUCUMAN,Famaillá,Famaillá,90028030.0,3,18.0
@@ -18749,10 +18429,6 @@ TUCUMAN,Monteros,Villa Quinteros,90070100.0,3,391.0
 TUCUMAN,Monteros,Villa Quinteros,90070100.0,10,2.0
 TUCUMAN,Monteros,Villa Quinteros,90070100.0,20,7.0
 TUCUMAN,Monteros,Villa Quinteros,90070100.0,30,1.0
-TUCUMAN,Otros,Otros,,0,134.0
-TUCUMAN,OTROS,OTROS,,3,3.0
-TUCUMAN,OTROS,OTROS,,6,3.0
-TUCUMAN,OTROS,OTROS,,10,3.0
 TUCUMAN,Río Chico,Aguilares,90077010.0,1,11.0
 TUCUMAN,Río Chico,Aguilares,90077010.0,3,133.0
 TUCUMAN,Río Chico,Aguilares,90077010.0,6,265.0
